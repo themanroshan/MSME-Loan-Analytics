@@ -1,0 +1,801 @@
+business_id,business_name,industry,business_size,state,city,registration_type,years_in_operation,employee_count,annual_turnover_inr,onboarding_date
+BIZ00001,Meera Foods 0001,Textiles,Small,Gujarat,Ahmedabad,Partnership,17,27,43636906,2021-11-22
+BIZ00002,Vivaan Industries 0002,Agri Allied,Micro,Gujarat,Ahmedabad,Proprietorship,18,7,4890300,2015-05-01
+BIZ00003,Arjun Solutions 0003,Food Processing,Small,Gujarat,Surat,Proprietorship,13,15,25267367,2017-11-12
+BIZ00004,Vivaan Foods 0004,IT Services,Medium,Madhya Pradesh,Indore,Private Limited,10,130,339739304,2014-09-25
+BIZ00005,Kabir Works 0005,Manufacturing,Micro,West Bengal,Howrah,LLP,12,3,2995631,2014-02-05
+BIZ00006,Anaya Traders 0006,Food Processing,Small,Telangana,Hyderabad,Proprietorship,2,16,33424897,2015-05-12
+BIZ00007,Anaya Solutions 0007,Logistics,Micro,Uttar Pradesh,Lucknow,LLP,2,9,4519045,2016-02-21
+BIZ00008,Ishita Works 0008,IT Services,Micro,Maharashtra,Nagpur,Proprietorship,20,5,2600244,2022-04-21
+BIZ00009,Anaya Solutions 0009,Agri Allied,Micro,Madhya Pradesh,Bhopal,Partnership,19,7,3851429,2019-03-02
+BIZ00010,Rohan Traders 0010,Food Processing,Micro,Gujarat,Ahmedabad,Partnership,25,1,2167068,2018-03-02
+BIZ00011,Diya Services 0011,Textiles,Micro,Gujarat,Rajkot,Partnership,12,2,2640672,2019-07-09
+BIZ00012,Dev Textiles 0012,Food Processing,Small,Delhi,Dwarka,Proprietorship,6,16,24671836,2014-08-20
+BIZ00013,Arjun Foods 0013,Wholesale Trade,Small,West Bengal,Durgapur,Partnership,3,22,42451691,2018-07-01
+BIZ00014,Dev Engineering 0014,Textiles,Micro,Rajasthan,Udaipur,Partnership,21,3,1797476,2016-02-05
+BIZ00015,Aarav Services 0015,Food Processing,Micro,Delhi,New Delhi,Private Limited,21,2,533130,2014-12-26
+BIZ00016,Sara Services 0016,Food Processing,Small,Telangana,Hyderabad,Partnership,20,21,36732442,2015-02-21
+BIZ00017,Kabir Textiles 0017,Construction,Micro,Rajasthan,Udaipur,Partnership,13,6,1129086,2020-05-05
+BIZ00018,Arjun Textiles 0018,IT Services,Small,Tamil Nadu,Madurai,One Person Company,3,44,26199329,2017-03-27
+BIZ00019,Anaya Foods 0019,Healthcare Services,Small,Uttar Pradesh,Noida,Partnership,15,35,29911073,2021-11-06
+BIZ00020,Aarav Traders 0020,Retail Trade,Micro,Madhya Pradesh,Bhopal,Partnership,14,4,638680,2018-06-26
+BIZ00021,Sara Traders 0021,Healthcare Services,Micro,Karnataka,Hubballi,Private Limited,7,4,4340313,2022-05-23
+BIZ00022,Arjun Textiles 0022,Construction,Micro,Uttar Pradesh,Noida,One Person Company,6,9,1766227,2019-11-16
+BIZ00023,Rohan Services 0023,IT Services,Small,Maharashtra,Mumbai,Proprietorship,4,32,40275419,2013-01-17
+BIZ00024,Diya Industries 0024,Wholesale Trade,Micro,Telangana,Warangal,LLP,17,3,4163091,2021-02-08
+BIZ00025,Ishita Textiles 0025,IT Services,Micro,Madhya Pradesh,Indore,One Person Company,3,1,3750617,2015-12-16
+BIZ00026,Anaya Enterprises 0026,Wholesale Trade,Micro,West Bengal,Kolkata,One Person Company,12,9,2754701,2021-04-01
+BIZ00027,Anaya Distributors 0027,Agri Allied,Small,Madhya Pradesh,Indore,Proprietorship,13,27,22145955,2020-05-29
+BIZ00028,Meera Industries 0028,Textiles,Small,Gujarat,Vadodara,Partnership,8,48,21281567,2021-11-16
+BIZ00029,Tara Distributors 0029,Retail Trade,Micro,West Bengal,Kolkata,Proprietorship,9,9,4588613,2017-12-01
+BIZ00030,Dev Distributors 0030,Wholesale Trade,Micro,Madhya Pradesh,Indore,One Person Company,18,3,4861293,2015-02-28
+BIZ00031,Sara Works 0031,IT Services,Small,Karnataka,Mysuru,Partnership,20,27,17250870,2021-12-16
+BIZ00032,Tara Textiles 0032,Food Processing,Medium,Madhya Pradesh,Jabalpur,Private Limited,3,190,255099330,2020-10-05
+BIZ00033,Diya Traders 0033,IT Services,Micro,Delhi,Dwarka,Partnership,21,6,1295477,2018-03-24
+BIZ00034,Aarav Solutions 0034,Logistics,Small,Tamil Nadu,Chennai,One Person Company,22,36,37375833,2018-07-13
+BIZ00035,Aarav Traders 0035,Food Processing,Small,Tamil Nadu,Madurai,Proprietorship,4,33,34243097,2016-08-13
+BIZ00036,Anaya Traders 0036,Manufacturing,Micro,Tamil Nadu,Chennai,One Person Company,3,2,687263,2017-12-05
+BIZ00037,Meera Engineering 0037,Construction,Micro,Tamil Nadu,Coimbatore,Partnership,17,2,965313,2021-01-10
+BIZ00038,Meera Distributors 0038,Construction,Micro,West Bengal,Durgapur,Private Limited,15,9,4663040,2017-01-30
+BIZ00039,Dev Works 0039,Retail Trade,Micro,Tamil Nadu,Chennai,LLP,16,6,602617,2021-04-04
+BIZ00040,Tara Industries 0040,Construction,Micro,Uttar Pradesh,Kanpur,Proprietorship,24,1,4022308,2021-12-04
+BIZ00041,Ishita Foods 0041,Logistics,Micro,Maharashtra,Nagpur,Partnership,17,5,4720219,2021-03-01
+BIZ00042,Kabir Works 0042,Construction,Micro,Tamil Nadu,Madurai,Partnership,15,9,1701390,2019-07-04
+BIZ00043,Ishita Distributors 0043,Food Processing,Micro,Telangana,Warangal,One Person Company,22,4,597254,2019-03-12
+BIZ00044,Aarav Traders 0044,IT Services,Small,Gujarat,Ahmedabad,Partnership,21,22,11311209,2017-05-06
+BIZ00045,Diya Foods 0045,Construction,Micro,Karnataka,Mysuru,Private Limited,17,7,1765552,2020-05-11
+BIZ00046,Aarav Works 0046,Healthcare Services,Small,Maharashtra,Pune,LLP,17,22,39589137,2021-09-06
+BIZ00047,Tara Engineering 0047,Healthcare Services,Medium,Rajasthan,Udaipur,Private Limited,25,96,66835650,2021-05-10
+BIZ00048,Meera Industries 0048,Textiles,Micro,Karnataka,Bengaluru,One Person Company,14,5,4234053,2014-11-15
+BIZ00049,Aarav Industries 0049,Logistics,Micro,Madhya Pradesh,Indore,One Person Company,6,9,1809130,2016-09-07
+BIZ00050,Kabir Industries 0050,IT Services,Micro,Rajasthan,Jodhpur,One Person Company,13,2,4712196,2021-02-16
+BIZ00051,Sara Traders 0051,Retail Trade,Micro,Gujarat,Surat,Partnership,8,4,4965690,2021-04-04
+BIZ00052,Meera Solutions 0052,Agri Allied,Small,Uttar Pradesh,Lucknow,One Person Company,23,18,45085662,2014-01-17
+BIZ00053,Vivaan Solutions 0053,Retail Trade,Micro,Maharashtra,Kolhapur,One Person Company,12,3,3974055,2019-06-20
+BIZ00054,Meera Services 0054,Textiles,Micro,Madhya Pradesh,Bhopal,Partnership,17,7,925100,2015-06-21
+BIZ00055,Dev Textiles 0055,Wholesale Trade,Micro,Telangana,Warangal,Private Limited,1,9,1584367,2022-06-02
+BIZ00056,Diya Solutions 0056,Manufacturing,Small,Delhi,New Delhi,One Person Company,4,39,11897794,2020-12-26
+BIZ00057,Meera Engineering 0057,IT Services,Small,Gujarat,Ahmedabad,LLP,18,44,13839559,2020-01-02
+BIZ00058,Meera Services 0058,Retail Trade,Small,Karnataka,Mysuru,LLP,8,29,48732189,2017-11-11
+BIZ00059,Tara Textiles 0059,IT Services,Micro,Karnataka,Mysuru,One Person Company,24,1,1533452,2020-01-06
+BIZ00060,Rohan Traders 0060,IT Services,Small,Madhya Pradesh,Indore,Partnership,4,21,10482462,2017-10-22
+BIZ00061,Tara Engineering 0061,Retail Trade,Small,Telangana,Hyderabad,Partnership,20,33,13989904,2014-04-30
+BIZ00062,Meera Services 0062,Agri Allied,Small,Telangana,Warangal,Partnership,21,43,38254280,2021-06-15
+BIZ00063,Aarav Traders 0063,Textiles,Micro,Telangana,Warangal,Private Limited,15,9,2289101,2013-04-09
+BIZ00064,Anaya Enterprises 0064,Manufacturing,Micro,Telangana,Hyderabad,LLP,8,3,3482888,2013-06-10
+BIZ00065,Arjun Works 0065,Construction,Micro,Karnataka,Hubballi,One Person Company,25,9,611867,2016-12-04
+BIZ00066,Tara Enterprises 0066,Retail Trade,Small,Maharashtra,Mumbai,One Person Company,14,38,9765383,2021-05-13
+BIZ00067,Arjun Enterprises 0067,Agri Allied,Micro,Maharashtra,Nashik,Private Limited,1,9,3182191,2020-12-18
+BIZ00068,Anaya Industries 0068,Textiles,Small,Karnataka,Bengaluru,LLP,24,35,26032172,2015-02-07
+BIZ00069,Dev Traders 0069,Food Processing,Micro,Tamil Nadu,Madurai,LLP,17,1,4232428,2020-04-17
+BIZ00070,Tara Enterprises 0070,Agri Allied,Micro,Madhya Pradesh,Bhopal,Partnership,20,7,2888463,2016-11-02
+BIZ00071,Aarav Enterprises 0071,Healthcare Services,Small,Karnataka,Bengaluru,LLP,19,34,23565720,2021-07-28
+BIZ00072,Rohan Enterprises 0072,Food Processing,Micro,Uttar Pradesh,Noida,Proprietorship,10,9,3433689,2014-04-19
+BIZ00073,Meera Foods 0073,Construction,Micro,Uttar Pradesh,Lucknow,Private Limited,14,3,1564980,2013-01-23
+BIZ00074,Meera Industries 0074,Food Processing,Small,Delhi,Dwarka,Partnership,19,45,9737513,2022-01-30
+BIZ00075,Ishita Textiles 0075,Textiles,Small,Uttar Pradesh,Kanpur,LLP,9,15,42109888,2019-08-19
+BIZ00076,Anaya Industries 0076,IT Services,Micro,Madhya Pradesh,Bhopal,Proprietorship,8,6,4644367,2021-02-13
+BIZ00077,Rohan Industries 0077,Agri Allied,Micro,Telangana,Hyderabad,Proprietorship,15,2,1019705,2017-06-23
+BIZ00078,Tara Services 0078,Logistics,Micro,West Bengal,Howrah,Private Limited,1,8,1285886,2022-03-18
+BIZ00079,Vivaan Solutions 0079,Retail Trade,Small,West Bengal,Durgapur,Partnership,13,37,22713370,2014-09-05
+BIZ00080,Aarav Engineering 0080,Healthcare Services,Micro,Telangana,Hyderabad,One Person Company,8,8,4437522,2014-06-16
+BIZ00081,Ishita Services 0081,Healthcare Services,Micro,Tamil Nadu,Coimbatore,One Person Company,13,2,1565351,2020-07-06
+BIZ00082,Arjun Textiles 0082,Textiles,Small,Delhi,New Delhi,Private Limited,7,21,23731809,2022-04-02
+BIZ00083,Arjun Enterprises 0083,Textiles,Micro,Delhi,Dwarka,Partnership,24,5,957523,2021-10-27
+BIZ00084,Dev Enterprises 0084,Healthcare Services,Micro,Uttar Pradesh,Noida,One Person Company,21,7,4661788,2021-10-07
+BIZ00085,Arjun Industries 0085,Healthcare Services,Small,West Bengal,Howrah,LLP,21,46,49080680,2019-08-12
+BIZ00086,Sara Solutions 0086,Healthcare Services,Small,Telangana,Hyderabad,LLP,21,34,33911747,2015-02-27
+BIZ00087,Dev Foods 0087,Construction,Micro,Rajasthan,Udaipur,One Person Company,21,5,2814002,2013-05-01
+BIZ00088,Dev Traders 0088,Wholesale Trade,Micro,Rajasthan,Jodhpur,LLP,22,7,2232902,2016-07-06
+BIZ00089,Anaya Traders 0089,Agri Allied,Micro,Madhya Pradesh,Jabalpur,Partnership,2,2,2650447,2021-02-14
+BIZ00090,Kabir Industries 0090,Food Processing,Micro,Telangana,Hyderabad,Proprietorship,11,5,2153803,2019-03-03
+BIZ00091,Ishita Distributors 0091,Agri Allied,Micro,Tamil Nadu,Coimbatore,Private Limited,11,4,3585845,2020-06-10
+BIZ00092,Diya Works 0092,Healthcare Services,Medium,West Bengal,Kolkata,Partnership,8,220,462356608,2018-01-20
+BIZ00093,Ishita Works 0093,Manufacturing,Micro,Karnataka,Hubballi,Partnership,12,5,4318522,2017-12-22
+BIZ00094,Diya Industries 0094,IT Services,Small,Karnataka,Hubballi,One Person Company,17,40,28972502,2016-07-30
+BIZ00095,Kabir Distributors 0095,Construction,Micro,Tamil Nadu,Chennai,One Person Company,5,7,1410820,2016-12-03
+BIZ00096,Diya Solutions 0096,Logistics,Small,Madhya Pradesh,Jabalpur,One Person Company,18,48,10944627,2016-10-03
+BIZ00097,Kabir Distributors 0097,Construction,Micro,Uttar Pradesh,Noida,Private Limited,16,7,880219,2017-08-23
+BIZ00098,Arjun Distributors 0098,Textiles,Micro,Telangana,Hyderabad,Partnership,24,2,4814961,2014-12-11
+BIZ00099,Tara Textiles 0099,Retail Trade,Small,Telangana,Warangal,Partnership,12,41,40780167,2013-09-04
+BIZ00100,Arjun Traders 0100,Logistics,Micro,Telangana,Warangal,Partnership,24,1,3155341,2021-10-21
+BIZ00101,Tara Enterprises 0101,Healthcare Services,Small,Karnataka,Bengaluru,Partnership,5,16,30422777,2022-08-27
+BIZ00102,Anaya Engineering 0102,Healthcare Services,Micro,Gujarat,Rajkot,Private Limited,15,7,2851842,2015-04-22
+BIZ00103,Vivaan Works 0103,Food Processing,Small,Uttar Pradesh,Lucknow,One Person Company,13,29,31981704,2021-05-18
+BIZ00104,Diya Industries 0104,Healthcare Services,Micro,Maharashtra,Kolhapur,LLP,24,7,1026966,2021-11-16
+BIZ00105,Arjun Engineering 0105,Healthcare Services,Small,Telangana,Warangal,One Person Company,19,26,39844463,2020-09-14
+BIZ00106,Rohan Works 0106,Food Processing,Micro,Tamil Nadu,Coimbatore,Private Limited,17,8,4542649,2015-04-27
+BIZ00107,Dev Works 0107,Logistics,Micro,Maharashtra,Nagpur,Partnership,20,4,1914979,2019-09-08
+BIZ00108,Arjun Industries 0108,Agri Allied,Micro,Rajasthan,Jaipur,Private Limited,4,5,4712573,2018-06-22
+BIZ00109,Ishita Works 0109,Manufacturing,Micro,West Bengal,Durgapur,Partnership,4,7,2988468,2013-07-03
+BIZ00110,Rohan Works 0110,Manufacturing,Small,Rajasthan,Jaipur,LLP,24,15,26571630,2019-01-26
+BIZ00111,Anaya Works 0111,Logistics,Medium,Tamil Nadu,Coimbatore,LLP,1,193,478037597,2018-08-11
+BIZ00112,Diya Industries 0112,Retail Trade,Small,Uttar Pradesh,Kanpur,One Person Company,3,14,33668324,2021-07-18
+BIZ00113,Dev Traders 0113,Food Processing,Small,Maharashtra,Nashik,Proprietorship,1,37,5553620,2021-10-19
+BIZ00114,Aarav Solutions 0114,Food Processing,Small,Maharashtra,Pune,Partnership,12,48,18291156,2018-04-10
+BIZ00115,Dev Traders 0115,Construction,Micro,Tamil Nadu,Chennai,One Person Company,1,3,4632988,2015-07-22
+BIZ00116,Anaya Enterprises 0116,Textiles,Micro,Tamil Nadu,Coimbatore,One Person Company,20,1,4986655,2014-03-08
+BIZ00117,Kabir Textiles 0117,Retail Trade,Micro,West Bengal,Durgapur,Proprietorship,20,8,978887,2016-04-04
+BIZ00118,Sara Works 0118,Textiles,Small,West Bengal,Kolkata,Private Limited,25,34,34255625,2021-11-06
+BIZ00119,Tara Foods 0119,Agri Allied,Small,Tamil Nadu,Chennai,Proprietorship,22,11,15837262,2018-04-28
+BIZ00120,Aarav Services 0120,Agri Allied,Small,Telangana,Hyderabad,One Person Company,4,10,13919190,2013-11-17
+BIZ00121,Ishita Engineering 0121,Logistics,Small,Uttar Pradesh,Noida,LLP,23,11,5244342,2021-03-18
+BIZ00122,Ishita Works 0122,Construction,Small,Maharashtra,Nagpur,LLP,2,48,41066681,2020-05-30
+BIZ00123,Vivaan Enterprises 0123,Wholesale Trade,Small,Rajasthan,Jodhpur,One Person Company,7,12,41043373,2013-04-26
+BIZ00124,Vivaan Solutions 0124,Construction,Small,Telangana,Warangal,LLP,24,42,36415435,2014-08-02
+BIZ00125,Rohan Distributors 0125,Retail Trade,Micro,Delhi,New Delhi,Partnership,12,2,1062156,2015-12-14
+BIZ00126,Dev Works 0126,Agri Allied,Small,Rajasthan,Jodhpur,LLP,13,13,33350533,2014-06-16
+BIZ00127,Kabir Distributors 0127,Logistics,Micro,Maharashtra,Nagpur,Partnership,21,7,1368686,2022-07-30
+BIZ00128,Rohan Solutions 0128,Logistics,Small,Delhi,Dwarka,LLP,7,39,49109215,2016-10-14
+BIZ00129,Meera Traders 0129,IT Services,Micro,Madhya Pradesh,Indore,Partnership,2,6,690577,2020-08-07
+BIZ00130,Meera Distributors 0130,IT Services,Small,Uttar Pradesh,Kanpur,Private Limited,23,24,12790753,2021-11-02
+BIZ00131,Rohan Foods 0131,Retail Trade,Micro,Rajasthan,Jaipur,Private Limited,10,9,2563522,2017-06-14
+BIZ00132,Anaya Distributors 0132,Agri Allied,Small,Tamil Nadu,Coimbatore,One Person Company,20,27,30758591,2021-04-26
+BIZ00133,Tara Engineering 0133,Healthcare Services,Medium,Madhya Pradesh,Bhopal,LLP,14,110,310107747,2017-07-03
+BIZ00134,Rohan Textiles 0134,Textiles,Small,Delhi,Dwarka,Partnership,18,16,47326748,2021-04-15
+BIZ00135,Ishita Engineering 0135,Logistics,Micro,Gujarat,Surat,Partnership,18,4,2633759,2021-06-21
+BIZ00136,Rohan Solutions 0136,Construction,Micro,Tamil Nadu,Chennai,One Person Company,3,1,1751339,2019-10-08
+BIZ00137,Meera Textiles 0137,Retail Trade,Micro,West Bengal,Howrah,Partnership,20,6,3355831,2013-04-15
+BIZ00138,Aarav Engineering 0138,Textiles,Micro,Delhi,New Delhi,Partnership,11,9,1479328,2017-01-04
+BIZ00139,Arjun Textiles 0139,Manufacturing,Micro,Telangana,Hyderabad,Partnership,24,1,2382800,2018-02-02
+BIZ00140,Sara Textiles 0140,Manufacturing,Micro,Rajasthan,Jaipur,Private Limited,12,4,3076060,2017-03-25
+BIZ00141,Kabir Industries 0141,Logistics,Small,Rajasthan,Udaipur,LLP,14,35,34359487,2016-09-25
+BIZ00142,Vivaan Distributors 0142,Retail Trade,Small,Rajasthan,Jaipur,Proprietorship,8,17,29711497,2018-07-15
+BIZ00143,Kabir Enterprises 0143,Manufacturing,Small,West Bengal,Durgapur,One Person Company,14,24,28073266,2014-11-15
+BIZ00144,Ishita Engineering 0144,Food Processing,Small,Telangana,Hyderabad,Private Limited,19,44,46447573,2017-11-01
+BIZ00145,Meera Engineering 0145,Agri Allied,Micro,West Bengal,Durgapur,Private Limited,7,8,1915028,2017-09-06
+BIZ00146,Sara Works 0146,Textiles,Micro,Rajasthan,Udaipur,LLP,21,1,1021355,2022-01-11
+BIZ00147,Sara Traders 0147,Manufacturing,Small,West Bengal,Durgapur,Partnership,21,12,17627514,2017-03-27
+BIZ00148,Kabir Foods 0148,Retail Trade,Micro,Tamil Nadu,Coimbatore,Partnership,9,1,1912520,2015-07-06
+BIZ00149,Aarav Works 0149,Wholesale Trade,Micro,Madhya Pradesh,Indore,Private Limited,11,8,4354466,2018-09-11
+BIZ00150,Aarav Foods 0150,Textiles,Micro,West Bengal,Howrah,LLP,10,7,3203781,2021-07-26
+BIZ00151,Dev Foods 0151,Retail Trade,Micro,Telangana,Warangal,LLP,13,9,4979590,2018-05-11
+BIZ00152,Vivaan Traders 0152,Food Processing,Micro,West Bengal,Durgapur,One Person Company,20,2,3594492,2015-11-15
+BIZ00153,Rohan Enterprises 0153,Wholesale Trade,Micro,Tamil Nadu,Madurai,Proprietorship,24,6,548274,2016-03-02
+BIZ00154,Sara Solutions 0154,Textiles,Micro,Maharashtra,Pune,LLP,6,7,1236880,2021-02-12
+BIZ00155,Tara Textiles 0155,Construction,Small,Rajasthan,Jaipur,Private Limited,24,49,30018624,2020-10-12
+BIZ00156,Ishita Solutions 0156,Construction,Medium,Telangana,Warangal,Proprietorship,21,150,113718149,2018-05-16
+BIZ00157,Sara Textiles 0157,Logistics,Micro,Uttar Pradesh,Noida,Proprietorship,9,1,3898985,2022-04-30
+BIZ00158,Sara Industries 0158,Agri Allied,Micro,Gujarat,Surat,LLP,11,3,1178028,2020-12-20
+BIZ00159,Diya Engineering 0159,Wholesale Trade,Medium,West Bengal,Kolkata,Private Limited,24,58,154783528,2020-11-09
+BIZ00160,Vivaan Distributors 0160,Agri Allied,Micro,Telangana,Hyderabad,Proprietorship,8,7,3139003,2017-12-07
+BIZ00161,Anaya Services 0161,Healthcare Services,Micro,Rajasthan,Udaipur,Proprietorship,7,3,4296147,2014-06-05
+BIZ00162,Tara Distributors 0162,Healthcare Services,Small,Karnataka,Mysuru,LLP,16,41,35159146,2015-04-25
+BIZ00163,Diya Traders 0163,Manufacturing,Micro,Uttar Pradesh,Noida,LLP,19,4,2927873,2014-03-01
+BIZ00164,Vivaan Engineering 0164,Retail Trade,Small,Telangana,Warangal,Proprietorship,9,31,26715762,2015-04-05
+BIZ00165,Aarav Foods 0165,Healthcare Services,Small,Madhya Pradesh,Bhopal,One Person Company,10,30,45929850,2019-10-07
+BIZ00166,Aarav Foods 0166,Construction,Small,Delhi,Dwarka,LLP,15,33,20326585,2017-11-18
+BIZ00167,Diya Distributors 0167,Textiles,Micro,Madhya Pradesh,Indore,Proprietorship,13,1,2293486,2013-01-10
+BIZ00168,Tara Enterprises 0168,Food Processing,Small,Maharashtra,Kolhapur,LLP,23,10,12987796,2019-06-09
+BIZ00169,Vivaan Traders 0169,IT Services,Micro,Madhya Pradesh,Indore,Partnership,7,1,4673572,2016-01-06
+BIZ00170,Dev Enterprises 0170,Retail Trade,Micro,Gujarat,Rajkot,Private Limited,12,6,3193147,2022-08-29
+BIZ00171,Diya Distributors 0171,Healthcare Services,Micro,Telangana,Warangal,Partnership,5,7,3351963,2015-10-18
+BIZ00172,Vivaan Foods 0172,Wholesale Trade,Small,Rajasthan,Jodhpur,One Person Company,25,49,26487764,2015-04-30
+BIZ00173,Ishita Textiles 0173,Wholesale Trade,Medium,Madhya Pradesh,Jabalpur,Private Limited,13,194,483445050,2016-09-02
+BIZ00174,Rohan Textiles 0174,Manufacturing,Small,Delhi,Dwarka,One Person Company,20,30,10134683,2015-08-11
+BIZ00175,Kabir Distributors 0175,Construction,Micro,West Bengal,Durgapur,One Person Company,17,5,3443460,2018-09-05
+BIZ00176,Arjun Engineering 0176,Logistics,Medium,Rajasthan,Udaipur,Private Limited,25,214,179702710,2015-08-07
+BIZ00177,Tara Foods 0177,Food Processing,Small,Rajasthan,Udaipur,One Person Company,16,23,10574139,2019-11-01
+BIZ00178,Aarav Services 0178,Healthcare Services,Small,Uttar Pradesh,Lucknow,Private Limited,2,45,27036488,2013-02-24
+BIZ00179,Diya Industries 0179,Wholesale Trade,Micro,Uttar Pradesh,Kanpur,Partnership,9,9,2352092,2022-01-04
+BIZ00180,Ishita Distributors 0180,Logistics,Micro,Madhya Pradesh,Jabalpur,Proprietorship,20,5,2999577,2014-12-07
+BIZ00181,Tara Enterprises 0181,Manufacturing,Medium,Madhya Pradesh,Bhopal,Private Limited,12,214,66636827,2022-03-12
+BIZ00182,Rohan Services 0182,Construction,Micro,Karnataka,Bengaluru,One Person Company,10,9,991770,2016-03-01
+BIZ00183,Anaya Engineering 0183,Retail Trade,Small,Uttar Pradesh,Noida,Private Limited,17,40,43945544,2015-07-16
+BIZ00184,Aarav Solutions 0184,IT Services,Small,Delhi,Dwarka,Proprietorship,19,46,7203366,2020-06-13
+BIZ00185,Meera Traders 0185,Textiles,Small,Tamil Nadu,Madurai,Private Limited,6,44,5202505,2013-06-24
+BIZ00186,Kabir Textiles 0186,Construction,Small,Gujarat,Ahmedabad,Proprietorship,13,40,6332328,2018-10-30
+BIZ00187,Rohan Services 0187,Manufacturing,Small,Maharashtra,Nashik,LLP,16,36,15694626,2018-09-11
+BIZ00188,Arjun Works 0188,Food Processing,Micro,Uttar Pradesh,Lucknow,One Person Company,22,9,4340051,2019-10-28
+BIZ00189,Ishita Solutions 0189,Wholesale Trade,Small,Karnataka,Bengaluru,Private Limited,12,25,17367127,2017-05-21
+BIZ00190,Diya Solutions 0190,Food Processing,Micro,West Bengal,Durgapur,Partnership,23,7,881652,2019-05-29
+BIZ00191,Diya Textiles 0191,Textiles,Small,Tamil Nadu,Coimbatore,Proprietorship,11,42,49943451,2016-07-11
+BIZ00192,Kabir Traders 0192,IT Services,Micro,Rajasthan,Udaipur,Private Limited,8,2,1115695,2017-02-21
+BIZ00193,Tara Textiles 0193,Healthcare Services,Medium,Delhi,Dwarka,Private Limited,22,190,317845778,2022-02-21
+BIZ00194,Diya Traders 0194,Healthcare Services,Medium,Telangana,Hyderabad,Partnership,10,118,273612468,2021-06-03
+BIZ00195,Sara Textiles 0195,Logistics,Micro,Uttar Pradesh,Noida,LLP,3,1,1408905,2017-05-03
+BIZ00196,Aarav Solutions 0196,Textiles,Micro,Maharashtra,Nagpur,Proprietorship,1,8,3355431,2019-05-24
+BIZ00197,Rohan Foods 0197,Construction,Micro,West Bengal,Durgapur,One Person Company,23,9,3883834,2017-11-02
+BIZ00198,Sara Textiles 0198,Food Processing,Micro,Delhi,New Delhi,Partnership,14,4,4536485,2020-06-11
+BIZ00199,Diya Industries 0199,Textiles,Micro,Gujarat,Ahmedabad,One Person Company,23,9,2882939,2013-03-01
+BIZ00200,Rohan Services 0200,Retail Trade,Small,Delhi,New Delhi,Private Limited,19,11,34404764,2019-10-27
+BIZ00201,Arjun Services 0201,Wholesale Trade,Micro,Karnataka,Bengaluru,One Person Company,8,3,1199487,2019-05-11
+BIZ00202,Rohan Distributors 0202,Wholesale Trade,Micro,Madhya Pradesh,Bhopal,LLP,22,3,3026702,2015-01-12
+BIZ00203,Ishita Enterprises 0203,Construction,Small,Delhi,New Delhi,Partnership,16,27,26431578,2013-06-30
+BIZ00204,Ishita Works 0204,Logistics,Small,Uttar Pradesh,Noida,Proprietorship,25,36,41658729,2013-12-15
+BIZ00205,Anaya Textiles 0205,Construction,Small,Telangana,Hyderabad,One Person Company,12,17,30297683,2019-08-16
+BIZ00206,Ishita Foods 0206,Logistics,Small,Uttar Pradesh,Noida,Private Limited,3,41,47990724,2017-09-29
+BIZ00207,Anaya Solutions 0207,IT Services,Micro,Maharashtra,Kolhapur,Partnership,4,1,4818985,2015-07-18
+BIZ00208,Dev Works 0208,Textiles,Micro,Gujarat,Rajkot,Proprietorship,3,6,1607299,2022-02-03
+BIZ00209,Rohan Distributors 0209,Manufacturing,Micro,Karnataka,Bengaluru,Proprietorship,7,5,1906564,2022-04-08
+BIZ00210,Kabir Works 0210,IT Services,Micro,Gujarat,Surat,Private Limited,2,7,2230269,2022-02-21
+BIZ00211,Tara Enterprises 0211,Agri Allied,Small,Delhi,Dwarka,Private Limited,12,18,18593220,2017-12-17
+BIZ00212,Vivaan Textiles 0212,Agri Allied,Micro,Gujarat,Rajkot,Proprietorship,10,3,507473,2021-08-22
+BIZ00213,Diya Foods 0213,Construction,Small,Delhi,New Delhi,LLP,5,10,27867531,2020-01-22
+BIZ00214,Dev Services 0214,IT Services,Micro,Gujarat,Vadodara,Proprietorship,13,5,2440971,2015-02-21
+BIZ00215,Ishita Distributors 0215,Food Processing,Small,Uttar Pradesh,Kanpur,Proprietorship,14,20,19512069,2016-12-03
+BIZ00216,Aarav Industries 0216,Agri Allied,Micro,Tamil Nadu,Madurai,LLP,7,4,3574662,2020-07-05
+BIZ00217,Meera Traders 0217,Agri Allied,Micro,Tamil Nadu,Chennai,One Person Company,7,9,718561,2017-12-02
+BIZ00218,Meera Services 0218,Food Processing,Small,Tamil Nadu,Madurai,Partnership,12,34,11770430,2022-04-08
+BIZ00219,Kabir Enterprises 0219,Textiles,Micro,West Bengal,Kolkata,One Person Company,1,9,541669,2013-08-30
+BIZ00220,Dev Industries 0220,Retail Trade,Micro,Telangana,Hyderabad,Partnership,5,7,997832,2016-09-13
+BIZ00221,Sara Services 0221,Food Processing,Micro,Maharashtra,Nashik,Proprietorship,3,6,3155879,2016-01-18
+BIZ00222,Kabir Works 0222,Manufacturing,Micro,Karnataka,Mysuru,One Person Company,22,5,4340162,2016-09-17
+BIZ00223,Diya Services 0223,Construction,Micro,Gujarat,Ahmedabad,One Person Company,23,7,4349711,2019-11-25
+BIZ00224,Arjun Foods 0224,Construction,Medium,West Bengal,Kolkata,One Person Company,7,243,254505843,2016-11-11
+BIZ00225,Diya Industries 0225,Textiles,Medium,Maharashtra,Kolhapur,Proprietorship,2,122,415921705,2021-04-14
+BIZ00226,Dev Traders 0226,Healthcare Services,Small,Rajasthan,Udaipur,Private Limited,8,21,32033026,2020-08-16
+BIZ00227,Anaya Solutions 0227,Retail Trade,Micro,Rajasthan,Jaipur,Partnership,16,3,851487,2014-05-09
+BIZ00228,Sara Solutions 0228,Textiles,Micro,Gujarat,Surat,One Person Company,1,7,585653,2021-02-13
+BIZ00229,Arjun Textiles 0229,Agri Allied,Small,Delhi,Dwarka,Private Limited,22,38,38236117,2014-09-13
+BIZ00230,Ishita Traders 0230,Healthcare Services,Small,Madhya Pradesh,Jabalpur,One Person Company,8,19,31722374,2021-07-03
+BIZ00231,Meera Works 0231,Construction,Micro,Tamil Nadu,Coimbatore,LLP,17,7,1278247,2015-01-04
+BIZ00232,Tara Traders 0232,Healthcare Services,Medium,Rajasthan,Udaipur,LLP,13,234,51803422,2022-07-27
+BIZ00233,Anaya Enterprises 0233,Textiles,Medium,Uttar Pradesh,Kanpur,Private Limited,15,166,107109488,2017-02-28
+BIZ00234,Ishita Works 0234,Retail Trade,Small,Gujarat,Ahmedabad,Proprietorship,23,16,29129018,2016-09-07
+BIZ00235,Aarav Solutions 0235,IT Services,Micro,Delhi,New Delhi,One Person Company,19,1,3175554,2021-06-12
+BIZ00236,Vivaan Services 0236,Retail Trade,Small,Madhya Pradesh,Bhopal,Private Limited,8,17,42631032,2022-07-21
+BIZ00237,Rohan Services 0237,Agri Allied,Small,Maharashtra,Nashik,Proprietorship,4,19,44324982,2014-07-29
+BIZ00238,Kabir Distributors 0238,Food Processing,Small,West Bengal,Durgapur,Partnership,7,31,29909337,2018-11-17
+BIZ00239,Anaya Traders 0239,IT Services,Small,Gujarat,Vadodara,LLP,14,39,30512200,2020-02-16
+BIZ00240,Arjun Solutions 0240,Healthcare Services,Medium,West Bengal,Kolkata,One Person Company,19,234,238672574,2017-09-23
+BIZ00241,Dev Textiles 0241,Agri Allied,Micro,Madhya Pradesh,Indore,Proprietorship,1,8,2841035,2018-07-27
+BIZ00242,Anaya Services 0242,Textiles,Micro,Karnataka,Mysuru,Proprietorship,11,6,4503453,2018-11-21
+BIZ00243,Dev Works 0243,Agri Allied,Small,Karnataka,Bengaluru,Proprietorship,12,15,48269733,2020-02-24
+BIZ00244,Ishita Engineering 0244,Manufacturing,Micro,Karnataka,Hubballi,Partnership,5,9,4365422,2013-11-10
+BIZ00245,Anaya Enterprises 0245,Construction,Micro,Uttar Pradesh,Kanpur,LLP,9,5,3800727,2016-06-19
+BIZ00246,Sara Traders 0246,Agri Allied,Micro,Telangana,Warangal,Proprietorship,22,1,2826587,2015-07-09
+BIZ00247,Aarav Traders 0247,Agri Allied,Small,Karnataka,Bengaluru,LLP,14,41,30647021,2018-05-30
+BIZ00248,Diya Solutions 0248,Healthcare Services,Medium,Rajasthan,Jodhpur,Private Limited,3,222,439507642,2014-12-21
+BIZ00249,Arjun Traders 0249,Food Processing,Micro,Uttar Pradesh,Kanpur,LLP,1,2,3846201,2018-04-19
+BIZ00250,Dev Solutions 0250,Textiles,Medium,Uttar Pradesh,Lucknow,Private Limited,1,210,219715106,2015-09-27
+BIZ00251,Aarav Foods 0251,Textiles,Small,Madhya Pradesh,Jabalpur,Private Limited,16,25,19360961,2019-05-07
+BIZ00252,Meera Textiles 0252,Manufacturing,Small,West Bengal,Kolkata,Partnership,16,10,23411298,2016-11-17
+BIZ00253,Anaya Traders 0253,Textiles,Medium,Karnataka,Mysuru,Proprietorship,13,143,138533981,2019-06-11
+BIZ00254,Kabir Enterprises 0254,Healthcare Services,Micro,Rajasthan,Jodhpur,Private Limited,10,3,1089989,2021-02-22
+BIZ00255,Arjun Engineering 0255,Food Processing,Small,Madhya Pradesh,Jabalpur,LLP,2,23,47970427,2015-08-30
+BIZ00256,Vivaan Industries 0256,Manufacturing,Micro,Gujarat,Rajkot,Private Limited,7,6,3890770,2014-03-02
+BIZ00257,Vivaan Solutions 0257,Agri Allied,Micro,Gujarat,Vadodara,Private Limited,12,2,1335947,2018-01-28
+BIZ00258,Vivaan Industries 0258,Retail Trade,Micro,Uttar Pradesh,Kanpur,LLP,14,2,1667479,2022-04-16
+BIZ00259,Tara Services 0259,Construction,Micro,Karnataka,Hubballi,Proprietorship,3,9,3436336,2016-03-08
+BIZ00260,Vivaan Solutions 0260,Food Processing,Micro,Uttar Pradesh,Lucknow,Private Limited,13,2,1635963,2019-11-12
+BIZ00261,Rohan Services 0261,Healthcare Services,Small,Madhya Pradesh,Indore,Partnership,8,45,45573883,2021-09-15
+BIZ00262,Arjun Traders 0262,Retail Trade,Medium,Delhi,New Delhi,One Person Company,25,167,478849609,2022-01-12
+BIZ00263,Anaya Enterprises 0263,Logistics,Micro,Madhya Pradesh,Indore,Partnership,24,3,2988042,2018-08-06
+BIZ00264,Meera Enterprises 0264,Textiles,Small,Gujarat,Surat,One Person Company,3,26,32754028,2017-06-16
+BIZ00265,Kabir Distributors 0265,Retail Trade,Micro,Karnataka,Hubballi,Private Limited,3,3,1221404,2021-09-10
+BIZ00266,Dev Solutions 0266,Construction,Small,West Bengal,Durgapur,One Person Company,22,39,38080824,2019-11-08
+BIZ00267,Diya Traders 0267,Wholesale Trade,Micro,Delhi,Dwarka,Private Limited,21,4,3920067,2022-06-08
+BIZ00268,Rohan Solutions 0268,Textiles,Micro,Rajasthan,Jodhpur,Proprietorship,20,4,4736924,2021-07-22
+BIZ00269,Diya Distributors 0269,Textiles,Small,Delhi,New Delhi,Proprietorship,19,14,16904291,2020-12-31
+BIZ00270,Ishita Traders 0270,Textiles,Micro,Maharashtra,Nashik,One Person Company,22,1,2361055,2018-05-10
+BIZ00271,Diya Solutions 0271,Healthcare Services,Micro,West Bengal,Durgapur,One Person Company,22,7,4331005,2017-02-23
+BIZ00272,Dev Foods 0272,Agri Allied,Micro,Maharashtra,Nagpur,LLP,22,7,2888826,2020-04-25
+BIZ00273,Kabir Industries 0273,IT Services,Micro,West Bengal,Howrah,Private Limited,8,2,4730085,2022-01-03
+BIZ00274,Arjun Enterprises 0274,Retail Trade,Small,Gujarat,Vadodara,Proprietorship,23,21,28294768,2017-12-17
+BIZ00275,Diya Engineering 0275,Construction,Micro,Tamil Nadu,Madurai,One Person Company,10,5,2455533,2019-03-21
+BIZ00276,Anaya Textiles 0276,Logistics,Micro,West Bengal,Kolkata,Private Limited,4,1,4785123,2018-01-16
+BIZ00277,Aarav Services 0277,Agri Allied,Medium,Uttar Pradesh,Kanpur,Proprietorship,4,82,299487448,2013-05-26
+BIZ00278,Dev Works 0278,IT Services,Micro,Delhi,New Delhi,LLP,6,4,635245,2021-07-28
+BIZ00279,Ishita Solutions 0279,Logistics,Medium,Telangana,Hyderabad,Partnership,1,114,323658145,2022-01-12
+BIZ00280,Kabir Solutions 0280,Healthcare Services,Micro,Delhi,Dwarka,Proprietorship,12,6,2893487,2020-11-28
+BIZ00281,Kabir Engineering 0281,Logistics,Medium,Telangana,Warangal,Proprietorship,4,213,383726584,2019-02-15
+BIZ00282,Aarav Services 0282,Logistics,Micro,Uttar Pradesh,Noida,LLP,12,7,4642996,2019-05-31
+BIZ00283,Diya Foods 0283,Logistics,Micro,Karnataka,Bengaluru,Partnership,24,4,4075056,2016-05-03
+BIZ00284,Rohan Traders 0284,Retail Trade,Small,Karnataka,Bengaluru,One Person Company,16,43,40713592,2020-09-01
+BIZ00285,Aarav Services 0285,IT Services,Medium,Madhya Pradesh,Jabalpur,One Person Company,14,137,337556142,2015-05-27
+BIZ00286,Kabir Enterprises 0286,Healthcare Services,Medium,Karnataka,Hubballi,Partnership,1,225,176403373,2022-02-15
+BIZ00287,Aarav Works 0287,Construction,Micro,West Bengal,Kolkata,LLP,20,2,1185470,2015-01-27
+BIZ00288,Rohan Distributors 0288,Agri Allied,Micro,Tamil Nadu,Coimbatore,Partnership,16,6,4648336,2019-08-17
+BIZ00289,Diya Foods 0289,Textiles,Small,Madhya Pradesh,Indore,LLP,18,28,34697808,2016-05-01
+BIZ00290,Rohan Works 0290,Construction,Micro,West Bengal,Howrah,One Person Company,15,5,4775274,2019-05-26
+BIZ00291,Meera Solutions 0291,Wholesale Trade,Micro,Madhya Pradesh,Bhopal,Partnership,3,7,4307034,2017-01-21
+BIZ00292,Anaya Engineering 0292,Construction,Micro,Telangana,Hyderabad,Proprietorship,2,7,4516194,2015-06-11
+BIZ00293,Ishita Enterprises 0293,Textiles,Medium,Madhya Pradesh,Indore,LLP,12,156,346998073,2021-01-20
+BIZ00294,Vivaan Traders 0294,Wholesale Trade,Medium,Rajasthan,Jodhpur,Partnership,8,196,214850969,2015-07-21
+BIZ00295,Vivaan Industries 0295,Manufacturing,Micro,Rajasthan,Udaipur,Private Limited,23,6,3739021,2016-12-31
+BIZ00296,Vivaan Traders 0296,Food Processing,Medium,Madhya Pradesh,Bhopal,LLP,13,87,238685444,2016-06-09
+BIZ00297,Ishita Services 0297,Logistics,Micro,Tamil Nadu,Chennai,Partnership,18,4,2480225,2020-03-20
+BIZ00298,Diya Enterprises 0298,Textiles,Micro,Karnataka,Bengaluru,Private Limited,4,2,3503704,2016-05-10
+BIZ00299,Ishita Industries 0299,Manufacturing,Small,Rajasthan,Jodhpur,LLP,8,10,19694607,2014-11-27
+BIZ00300,Tara Solutions 0300,IT Services,Small,Tamil Nadu,Chennai,One Person Company,5,40,43728368,2020-05-01
+BIZ00301,Meera Textiles 0301,Textiles,Small,Uttar Pradesh,Lucknow,Proprietorship,5,15,17381863,2015-04-15
+BIZ00302,Dev Solutions 0302,Healthcare Services,Micro,Maharashtra,Pune,Private Limited,4,9,3536314,2013-11-18
+BIZ00303,Sara Engineering 0303,Construction,Micro,Gujarat,Ahmedabad,Proprietorship,25,5,3656259,2015-04-03
+BIZ00304,Tara Enterprises 0304,Food Processing,Small,Madhya Pradesh,Jabalpur,LLP,24,22,16479811,2016-08-25
+BIZ00305,Anaya Foods 0305,Agri Allied,Micro,Uttar Pradesh,Lucknow,One Person Company,18,9,2298542,2018-06-13
+BIZ00306,Arjun Services 0306,Retail Trade,Micro,Uttar Pradesh,Lucknow,Proprietorship,18,7,2300276,2014-03-23
+BIZ00307,Arjun Engineering 0307,IT Services,Small,Madhya Pradesh,Jabalpur,Proprietorship,10,27,47117187,2014-06-30
+BIZ00308,Dev Works 0308,Manufacturing,Micro,Uttar Pradesh,Kanpur,LLP,22,7,2950467,2017-12-20
+BIZ00309,Ishita Services 0309,Logistics,Small,Telangana,Hyderabad,Partnership,21,23,15989225,2018-10-24
+BIZ00310,Aarav Services 0310,Wholesale Trade,Medium,Gujarat,Vadodara,One Person Company,23,237,429495298,2013-03-22
+BIZ00311,Tara Distributors 0311,Construction,Small,Delhi,New Delhi,Partnership,25,40,39316554,2021-09-15
+BIZ00312,Aarav Textiles 0312,Construction,Micro,Karnataka,Bengaluru,Partnership,13,6,1581018,2016-06-17
+BIZ00313,Anaya Textiles 0313,Manufacturing,Micro,Maharashtra,Pune,One Person Company,8,3,3136826,2019-03-16
+BIZ00314,Rohan Industries 0314,Construction,Micro,Uttar Pradesh,Noida,Partnership,11,3,4172252,2014-05-13
+BIZ00315,Dev Services 0315,Manufacturing,Micro,Telangana,Warangal,LLP,10,1,2012584,2018-04-24
+BIZ00316,Vivaan Distributors 0316,Healthcare Services,Small,Gujarat,Vadodara,Private Limited,20,37,11224808,2015-03-16
+BIZ00317,Tara Distributors 0317,Construction,Micro,Delhi,New Delhi,LLP,3,4,4993742,2019-12-12
+BIZ00318,Tara Works 0318,Retail Trade,Micro,Madhya Pradesh,Bhopal,Proprietorship,5,4,2402601,2016-09-15
+BIZ00319,Arjun Textiles 0319,Wholesale Trade,Medium,Uttar Pradesh,Noida,LLP,8,246,81338286,2013-08-10
+BIZ00320,Dev Textiles 0320,Logistics,Small,Gujarat,Ahmedabad,LLP,4,29,17178446,2014-02-16
+BIZ00321,Kabir Distributors 0321,Healthcare Services,Small,Rajasthan,Jodhpur,LLP,12,14,42463817,2017-02-18
+BIZ00322,Sara Works 0322,Logistics,Micro,Rajasthan,Jaipur,LLP,5,3,2984832,2017-11-11
+BIZ00323,Anaya Engineering 0323,Healthcare Services,Small,Maharashtra,Mumbai,Partnership,20,36,49641890,2022-07-01
+BIZ00324,Dev Distributors 0324,Agri Allied,Micro,Maharashtra,Pune,Proprietorship,25,7,928395,2015-08-28
+BIZ00325,Dev Services 0325,Food Processing,Medium,Karnataka,Bengaluru,LLP,9,113,257543998,2020-12-31
+BIZ00326,Sara Enterprises 0326,Manufacturing,Micro,Uttar Pradesh,Noida,Private Limited,11,7,3525189,2019-04-18
+BIZ00327,Ishita Solutions 0327,Construction,Small,Delhi,Dwarka,Partnership,18,43,41955385,2013-08-17
+BIZ00328,Anaya Textiles 0328,Healthcare Services,Micro,Madhya Pradesh,Bhopal,Partnership,11,7,3869693,2014-12-10
+BIZ00329,Diya Engineering 0329,Wholesale Trade,Micro,Gujarat,Ahmedabad,Private Limited,6,9,1147589,2017-03-10
+BIZ00330,Rohan Distributors 0330,Textiles,Micro,Madhya Pradesh,Indore,Partnership,22,3,1190864,2017-07-16
+BIZ00331,Meera Traders 0331,Construction,Micro,West Bengal,Howrah,Partnership,13,1,502334,2021-11-19
+BIZ00332,Tara Distributors 0332,Wholesale Trade,Small,Gujarat,Rajkot,Proprietorship,11,23,6567725,2016-05-22
+BIZ00333,Arjun Engineering 0333,Retail Trade,Small,Delhi,Dwarka,LLP,9,16,11608868,2022-02-04
+BIZ00334,Anaya Engineering 0334,Wholesale Trade,Small,Telangana,Hyderabad,Partnership,22,28,29252379,2014-10-07
+BIZ00335,Meera Distributors 0335,Wholesale Trade,Micro,Gujarat,Surat,Proprietorship,11,4,3820089,2017-01-07
+BIZ00336,Arjun Enterprises 0336,Construction,Small,Delhi,Dwarka,One Person Company,7,31,27688037,2015-06-09
+BIZ00337,Vivaan Distributors 0337,Textiles,Micro,Gujarat,Ahmedabad,One Person Company,8,4,1486351,2016-08-25
+BIZ00338,Ishita Enterprises 0338,Agri Allied,Small,Uttar Pradesh,Kanpur,LLP,6,40,10350965,2021-11-22
+BIZ00339,Dev Engineering 0339,Construction,Micro,Gujarat,Rajkot,LLP,5,2,4203984,2022-02-18
+BIZ00340,Kabir Enterprises 0340,Agri Allied,Medium,Karnataka,Hubballi,Private Limited,10,247,111745066,2016-05-17
+BIZ00341,Arjun Enterprises 0341,Retail Trade,Micro,Madhya Pradesh,Indore,LLP,23,4,4437878,2013-06-19
+BIZ00342,Tara Foods 0342,Logistics,Small,Karnataka,Bengaluru,LLP,25,34,13653530,2020-08-01
+BIZ00343,Rohan Foods 0343,Retail Trade,Small,Madhya Pradesh,Bhopal,One Person Company,24,21,38062630,2022-09-01
+BIZ00344,Sara Engineering 0344,Textiles,Small,Telangana,Hyderabad,Proprietorship,15,24,42284611,2015-10-28
+BIZ00345,Sara Solutions 0345,Wholesale Trade,Micro,Madhya Pradesh,Jabalpur,Partnership,14,1,3207013,2019-02-11
+BIZ00346,Tara Solutions 0346,Agri Allied,Micro,Karnataka,Hubballi,LLP,13,3,2383952,2015-05-13
+BIZ00347,Ishita Industries 0347,Manufacturing,Small,West Bengal,Kolkata,One Person Company,9,32,22341626,2015-05-25
+BIZ00348,Vivaan Solutions 0348,Agri Allied,Micro,Telangana,Hyderabad,Proprietorship,7,5,1916373,2017-03-31
+BIZ00349,Rohan Textiles 0349,IT Services,Small,Rajasthan,Jodhpur,Private Limited,22,12,5048035,2022-08-21
+BIZ00350,Rohan Distributors 0350,Healthcare Services,Small,Tamil Nadu,Madurai,Proprietorship,6,41,34083084,2021-01-21
+BIZ00351,Vivaan Distributors 0351,Construction,Small,Maharashtra,Pune,Private Limited,3,28,26424129,2014-07-24
+BIZ00352,Kabir Services 0352,Agri Allied,Micro,Tamil Nadu,Coimbatore,LLP,24,5,1468302,2017-01-13
+BIZ00353,Anaya Engineering 0353,Wholesale Trade,Micro,Delhi,Dwarka,One Person Company,8,7,1463415,2014-01-21
+BIZ00354,Diya Traders 0354,Food Processing,Micro,Gujarat,Vadodara,LLP,3,5,2402303,2021-01-06
+BIZ00355,Ishita Industries 0355,Wholesale Trade,Micro,Rajasthan,Jaipur,LLP,17,8,1941787,2019-05-22
+BIZ00356,Meera Enterprises 0356,Healthcare Services,Micro,Uttar Pradesh,Noida,LLP,10,4,2108163,2020-02-26
+BIZ00357,Meera Enterprises 0357,Logistics,Small,West Bengal,Durgapur,Private Limited,11,18,44976445,2022-06-01
+BIZ00358,Rohan Distributors 0358,Construction,Micro,Madhya Pradesh,Bhopal,Proprietorship,24,1,983313,2021-08-10
+BIZ00359,Diya Foods 0359,IT Services,Small,Gujarat,Rajkot,Partnership,11,14,43357204,2013-05-16
+BIZ00360,Aarav Textiles 0360,Manufacturing,Small,West Bengal,Howrah,Private Limited,19,15,28672723,2013-01-15
+BIZ00361,Rohan Engineering 0361,Construction,Micro,West Bengal,Durgapur,Proprietorship,6,4,1957715,2018-03-06
+BIZ00362,Rohan Services 0362,Wholesale Trade,Small,Gujarat,Rajkot,Private Limited,24,46,41278593,2021-01-27
+BIZ00363,Aarav Solutions 0363,Healthcare Services,Medium,Delhi,New Delhi,One Person Company,9,149,272152434,2019-11-30
+BIZ00364,Rohan Traders 0364,IT Services,Micro,Tamil Nadu,Coimbatore,Private Limited,25,8,2288862,2017-01-17
+BIZ00365,Rohan Solutions 0365,IT Services,Micro,Madhya Pradesh,Bhopal,One Person Company,17,3,1369437,2013-03-09
+BIZ00366,Vivaan Services 0366,Retail Trade,Small,Gujarat,Surat,LLP,3,33,31519902,2019-03-30
+BIZ00367,Meera Solutions 0367,Wholesale Trade,Micro,Madhya Pradesh,Bhopal,One Person Company,11,4,3349171,2019-01-17
+BIZ00368,Aarav Industries 0368,Manufacturing,Medium,Uttar Pradesh,Noida,Partnership,24,204,226171390,2019-07-13
+BIZ00369,Diya Enterprises 0369,IT Services,Micro,Delhi,Dwarka,One Person Company,25,6,2578180,2019-11-25
+BIZ00370,Sara Services 0370,Logistics,Small,Madhya Pradesh,Indore,Partnership,17,48,19432199,2019-05-15
+BIZ00371,Sara Services 0371,Textiles,Micro,Uttar Pradesh,Noida,One Person Company,14,1,1247281,2017-11-11
+BIZ00372,Tara Solutions 0372,Construction,Micro,Madhya Pradesh,Jabalpur,LLP,19,8,1465425,2017-04-05
+BIZ00373,Anaya Traders 0373,Logistics,Small,Rajasthan,Jaipur,Private Limited,14,20,42205544,2013-04-18
+BIZ00374,Sara Distributors 0374,Manufacturing,Small,West Bengal,Howrah,LLP,24,49,35102644,2022-03-21
+BIZ00375,Tara Industries 0375,Food Processing,Medium,West Bengal,Durgapur,One Person Company,22,128,465755180,2013-10-10
+BIZ00376,Dev Solutions 0376,IT Services,Micro,Rajasthan,Jaipur,Private Limited,15,9,673438,2016-02-12
+BIZ00377,Aarav Solutions 0377,Food Processing,Small,Karnataka,Hubballi,Proprietorship,3,11,38455698,2021-04-05
+BIZ00378,Anaya Works 0378,Construction,Micro,Tamil Nadu,Chennai,Partnership,22,5,2595908,2022-09-04
+BIZ00379,Vivaan Engineering 0379,Food Processing,Small,Uttar Pradesh,Noida,One Person Company,24,23,44544362,2013-02-14
+BIZ00380,Tara Enterprises 0380,Manufacturing,Small,Rajasthan,Jodhpur,One Person Company,10,36,17165380,2021-03-02
+BIZ00381,Dev Distributors 0381,Logistics,Small,Tamil Nadu,Madurai,One Person Company,4,29,29141956,2020-05-22
+BIZ00382,Diya Engineering 0382,Wholesale Trade,Medium,Uttar Pradesh,Kanpur,LLP,25,220,435038954,2020-11-26
+BIZ00383,Sara Distributors 0383,Textiles,Small,Madhya Pradesh,Bhopal,Partnership,25,45,21850877,2021-08-03
+BIZ00384,Rohan Foods 0384,IT Services,Small,Tamil Nadu,Coimbatore,LLP,3,19,26679359,2017-03-30
+BIZ00385,Anaya Distributors 0385,Construction,Medium,Telangana,Hyderabad,LLP,19,171,241240723,2013-08-22
+BIZ00386,Rohan Traders 0386,Textiles,Micro,Madhya Pradesh,Jabalpur,One Person Company,10,8,1032795,2015-01-02
+BIZ00387,Anaya Enterprises 0387,Healthcare Services,Small,Madhya Pradesh,Bhopal,LLP,2,21,18670847,2015-08-18
+BIZ00388,Anaya Distributors 0388,Retail Trade,Micro,Maharashtra,Nashik,LLP,22,5,2842058,2018-03-22
+BIZ00389,Arjun Textiles 0389,Food Processing,Small,Rajasthan,Jaipur,One Person Company,15,16,35074883,2021-08-16
+BIZ00390,Sara Solutions 0390,Retail Trade,Small,Telangana,Hyderabad,Partnership,10,33,6804275,2018-03-29
+BIZ00391,Meera Foods 0391,IT Services,Micro,Tamil Nadu,Chennai,Proprietorship,24,2,1128306,2017-02-23
+BIZ00392,Tara Distributors 0392,Logistics,Micro,Gujarat,Rajkot,Proprietorship,5,5,935645,2013-07-10
+BIZ00393,Kabir Works 0393,IT Services,Micro,Karnataka,Bengaluru,Private Limited,6,8,4884877,2020-05-06
+BIZ00394,Rohan Services 0394,Food Processing,Small,Rajasthan,Jodhpur,LLP,3,45,44213408,2016-07-25
+BIZ00395,Meera Engineering 0395,Agri Allied,Micro,Maharashtra,Mumbai,Proprietorship,4,4,661544,2020-09-28
+BIZ00396,Aarav Works 0396,Wholesale Trade,Medium,Karnataka,Mysuru,Private Limited,14,182,481418386,2022-05-03
+BIZ00397,Aarav Industries 0397,Textiles,Small,Karnataka,Hubballi,LLP,14,22,45634511,2018-12-14
+BIZ00398,Anaya Textiles 0398,Retail Trade,Medium,West Bengal,Durgapur,Private Limited,2,232,426864084,2021-08-02
+BIZ00399,Kabir Engineering 0399,Construction,Micro,Madhya Pradesh,Jabalpur,Private Limited,1,8,1200909,2015-09-17
+BIZ00400,Anaya Enterprises 0400,Retail Trade,Medium,Telangana,Hyderabad,Private Limited,14,191,305351651,2018-11-13
+BIZ00401,Tara Services 0401,Manufacturing,Micro,Telangana,Hyderabad,LLP,25,1,4859385,2019-12-03
+BIZ00402,Kabir Solutions 0402,Food Processing,Micro,West Bengal,Durgapur,Private Limited,8,2,1787212,2013-05-10
+BIZ00403,Ishita Works 0403,Logistics,Micro,Uttar Pradesh,Noida,Proprietorship,17,8,3685297,2017-06-22
+BIZ00404,Anaya Foods 0404,Construction,Medium,Karnataka,Bengaluru,Proprietorship,21,122,428969594,2013-07-23
+BIZ00405,Diya Textiles 0405,Food Processing,Micro,Telangana,Warangal,LLP,24,8,2955540,2018-12-16
+BIZ00406,Dev Services 0406,Textiles,Small,Telangana,Hyderabad,Partnership,14,27,48731171,2015-11-17
+BIZ00407,Rohan Enterprises 0407,Construction,Micro,Maharashtra,Mumbai,Private Limited,12,5,2238536,2020-01-04
+BIZ00408,Tara Traders 0408,Textiles,Micro,Madhya Pradesh,Jabalpur,LLP,10,7,903889,2021-12-23
+BIZ00409,Kabir Distributors 0409,Food Processing,Small,Delhi,New Delhi,Partnership,19,27,46880801,2014-08-12
+BIZ00410,Anaya Works 0410,Agri Allied,Micro,Rajasthan,Jodhpur,One Person Company,16,8,1208855,2020-09-23
+BIZ00411,Meera Solutions 0411,Food Processing,Medium,Rajasthan,Jodhpur,Proprietorship,21,93,282090054,2016-04-09
+BIZ00412,Tara Services 0412,IT Services,Medium,Madhya Pradesh,Bhopal,Proprietorship,24,162,156362195,2022-04-02
+BIZ00413,Arjun Engineering 0413,Manufacturing,Micro,West Bengal,Kolkata,Partnership,24,1,1378059,2021-04-14
+BIZ00414,Kabir Services 0414,Wholesale Trade,Medium,West Bengal,Durgapur,One Person Company,15,182,291748497,2016-08-23
+BIZ00415,Tara Solutions 0415,Food Processing,Micro,Rajasthan,Jaipur,Private Limited,13,8,3280050,2016-05-23
+BIZ00416,Diya Enterprises 0416,Manufacturing,Medium,Gujarat,Rajkot,One Person Company,22,72,206555349,2021-11-06
+BIZ00417,Aarav Engineering 0417,Agri Allied,Micro,Uttar Pradesh,Kanpur,Private Limited,11,4,4755621,2014-06-22
+BIZ00418,Rohan Industries 0418,Healthcare Services,Small,Telangana,Hyderabad,Partnership,10,26,29321451,2020-12-14
+BIZ00419,Vivaan Services 0419,Manufacturing,Micro,West Bengal,Kolkata,Proprietorship,5,6,3527840,2021-02-25
+BIZ00420,Diya Industries 0420,Retail Trade,Micro,Madhya Pradesh,Indore,LLP,11,9,3748580,2021-02-01
+BIZ00421,Dev Works 0421,Wholesale Trade,Medium,Uttar Pradesh,Lucknow,LLP,20,87,98290563,2017-01-02
+BIZ00422,Vivaan Traders 0422,Healthcare Services,Micro,Uttar Pradesh,Kanpur,One Person Company,13,9,2786868,2018-06-26
+BIZ00423,Ishita Enterprises 0423,Logistics,Medium,Karnataka,Hubballi,One Person Company,3,147,265075961,2013-10-08
+BIZ00424,Tara Foods 0424,Wholesale Trade,Micro,Uttar Pradesh,Noida,Proprietorship,11,3,3168304,2020-07-06
+BIZ00425,Dev Engineering 0425,Construction,Small,Maharashtra,Nashik,Private Limited,16,12,49162419,2022-07-24
+BIZ00426,Meera Distributors 0426,Food Processing,Small,Madhya Pradesh,Bhopal,LLP,12,38,26400252,2022-02-21
+BIZ00427,Tara Traders 0427,Food Processing,Small,Karnataka,Mysuru,Proprietorship,18,35,40179067,2013-12-12
+BIZ00428,Meera Foods 0428,Manufacturing,Small,Uttar Pradesh,Noida,Proprietorship,11,40,43530305,2016-08-05
+BIZ00429,Sara Industries 0429,Construction,Micro,Gujarat,Ahmedabad,Partnership,11,6,3523343,2013-09-09
+BIZ00430,Meera Engineering 0430,Construction,Micro,Maharashtra,Nagpur,Partnership,25,6,2412867,2014-11-01
+BIZ00431,Rohan Foods 0431,IT Services,Micro,Maharashtra,Pune,One Person Company,2,7,2568692,2017-07-21
+BIZ00432,Rohan Enterprises 0432,Food Processing,Small,Delhi,Dwarka,One Person Company,6,25,10901982,2020-10-19
+BIZ00433,Rohan Industries 0433,Textiles,Small,Tamil Nadu,Coimbatore,One Person Company,3,39,45260954,2015-08-11
+BIZ00434,Dev Works 0434,Wholesale Trade,Micro,West Bengal,Durgapur,One Person Company,7,8,4802209,2021-03-24
+BIZ00435,Dev Works 0435,Logistics,Micro,Rajasthan,Jaipur,One Person Company,10,3,2882261,2020-11-21
+BIZ00436,Kabir Textiles 0436,Healthcare Services,Small,Delhi,Dwarka,Private Limited,23,43,36867089,2021-01-10
+BIZ00437,Meera Foods 0437,Construction,Micro,Karnataka,Hubballi,LLP,20,5,1163416,2018-12-12
+BIZ00438,Arjun Works 0438,Manufacturing,Micro,Karnataka,Mysuru,Private Limited,7,7,1072742,2017-05-19
+BIZ00439,Vivaan Foods 0439,Wholesale Trade,Small,Madhya Pradesh,Jabalpur,LLP,4,12,26650539,2020-05-24
+BIZ00440,Diya Services 0440,Retail Trade,Small,Tamil Nadu,Coimbatore,Proprietorship,20,18,41678289,2018-05-16
+BIZ00441,Aarav Textiles 0441,Food Processing,Small,Madhya Pradesh,Jabalpur,Private Limited,7,19,21236475,2020-12-18
+BIZ00442,Ishita Foods 0442,Manufacturing,Micro,West Bengal,Durgapur,One Person Company,5,7,2264270,2020-05-21
+BIZ00443,Meera Services 0443,Construction,Small,Madhya Pradesh,Indore,LLP,5,22,17276194,2019-03-06
+BIZ00444,Tara Traders 0444,Food Processing,Micro,Maharashtra,Pune,Private Limited,4,8,1863340,2019-02-21
+BIZ00445,Tara Foods 0445,Agri Allied,Micro,Tamil Nadu,Madurai,Private Limited,14,7,4685015,2019-03-08
+BIZ00446,Rohan Works 0446,Logistics,Small,Tamil Nadu,Madurai,Private Limited,13,34,44022752,2013-01-08
+BIZ00447,Rohan Textiles 0447,Logistics,Small,Madhya Pradesh,Jabalpur,LLP,12,45,45887371,2017-10-29
+BIZ00448,Ishita Distributors 0448,Construction,Micro,Madhya Pradesh,Bhopal,LLP,20,7,865193,2022-07-29
+BIZ00449,Vivaan Industries 0449,Logistics,Micro,Tamil Nadu,Coimbatore,One Person Company,12,5,2333130,2018-05-05
+BIZ00450,Aarav Textiles 0450,Wholesale Trade,Small,Tamil Nadu,Madurai,One Person Company,15,49,42647586,2021-09-03
+BIZ00451,Rohan Enterprises 0451,Healthcare Services,Micro,West Bengal,Durgapur,Partnership,5,8,4315265,2015-03-29
+BIZ00452,Sara Foods 0452,Healthcare Services,Small,Delhi,New Delhi,Private Limited,25,16,45045455,2019-09-04
+BIZ00453,Rohan Distributors 0453,Logistics,Micro,Madhya Pradesh,Jabalpur,Private Limited,19,3,3228347,2016-08-13
+BIZ00454,Kabir Enterprises 0454,Logistics,Micro,Rajasthan,Jaipur,One Person Company,24,6,3006508,2019-11-07
+BIZ00455,Dev Industries 0455,IT Services,Micro,Rajasthan,Jaipur,One Person Company,6,2,760754,2016-08-11
+BIZ00456,Aarav Works 0456,Manufacturing,Micro,Maharashtra,Mumbai,Partnership,24,1,4253544,2016-02-09
+BIZ00457,Aarav Foods 0457,Wholesale Trade,Micro,Tamil Nadu,Chennai,One Person Company,19,2,4153946,2013-03-19
+BIZ00458,Sara Solutions 0458,Manufacturing,Medium,Rajasthan,Udaipur,Private Limited,7,109,113024932,2016-02-22
+BIZ00459,Arjun Engineering 0459,Manufacturing,Small,Rajasthan,Jaipur,Private Limited,11,19,17429331,2019-05-28
+BIZ00460,Tara Textiles 0460,IT Services,Micro,Maharashtra,Mumbai,One Person Company,25,9,2434806,2018-07-11
+BIZ00461,Tara Works 0461,IT Services,Micro,Telangana,Hyderabad,Partnership,20,7,3973322,2017-02-07
+BIZ00462,Kabir Foods 0462,IT Services,Small,Gujarat,Ahmedabad,Partnership,10,37,14588372,2022-09-08
+BIZ00463,Anaya Textiles 0463,Textiles,Small,West Bengal,Durgapur,Private Limited,10,49,6738993,2020-09-12
+BIZ00464,Diya Solutions 0464,Healthcare Services,Micro,Gujarat,Vadodara,Partnership,6,7,4144733,2021-11-11
+BIZ00465,Dev Industries 0465,Retail Trade,Micro,Tamil Nadu,Coimbatore,Proprietorship,9,7,2171944,2020-06-06
+BIZ00466,Arjun Distributors 0466,Healthcare Services,Micro,Uttar Pradesh,Kanpur,Proprietorship,5,4,2345219,2018-01-26
+BIZ00467,Diya Works 0467,Retail Trade,Small,Maharashtra,Pune,LLP,14,35,36068087,2021-06-04
+BIZ00468,Aarav Foods 0468,IT Services,Micro,West Bengal,Kolkata,Partnership,25,3,2315094,2013-10-03
+BIZ00469,Aarav Traders 0469,Textiles,Micro,West Bengal,Howrah,LLP,25,7,3895579,2013-04-22
+BIZ00470,Kabir Services 0470,Manufacturing,Micro,Madhya Pradesh,Jabalpur,Proprietorship,3,2,1402531,2020-12-04
+BIZ00471,Tara Works 0471,Wholesale Trade,Micro,Tamil Nadu,Madurai,Proprietorship,6,3,4082272,2020-09-02
+BIZ00472,Meera Solutions 0472,Agri Allied,Small,Telangana,Hyderabad,Private Limited,23,34,16971389,2020-01-24
+BIZ00473,Tara Enterprises 0473,Healthcare Services,Micro,Madhya Pradesh,Bhopal,Proprietorship,7,2,4747092,2017-09-27
+BIZ00474,Aarav Traders 0474,Logistics,Micro,Madhya Pradesh,Jabalpur,Private Limited,11,6,4310019,2018-11-06
+BIZ00475,Sara Solutions 0475,Logistics,Micro,Tamil Nadu,Chennai,One Person Company,3,2,3376626,2018-07-08
+BIZ00476,Dev Textiles 0476,Manufacturing,Micro,Uttar Pradesh,Kanpur,Private Limited,20,6,4628280,2014-06-16
+BIZ00477,Arjun Works 0477,Logistics,Small,Rajasthan,Jaipur,Private Limited,2,19,7274119,2014-05-22
+BIZ00478,Dev Works 0478,Agri Allied,Micro,Karnataka,Hubballi,Proprietorship,22,5,3285123,2015-05-06
+BIZ00479,Tara Traders 0479,Food Processing,Micro,West Bengal,Howrah,Proprietorship,4,8,4723301,2021-09-12
+BIZ00480,Tara Enterprises 0480,Healthcare Services,Micro,Telangana,Hyderabad,Private Limited,19,2,4445051,2017-08-08
+BIZ00481,Ishita Industries 0481,Retail Trade,Small,Delhi,Dwarka,LLP,2,42,38720878,2016-09-10
+BIZ00482,Ishita Enterprises 0482,Textiles,Micro,Rajasthan,Udaipur,Proprietorship,8,3,1572523,2017-11-03
+BIZ00483,Arjun Engineering 0483,Construction,Micro,Karnataka,Mysuru,One Person Company,13,6,2277958,2014-08-22
+BIZ00484,Ishita Services 0484,Manufacturing,Medium,Uttar Pradesh,Lucknow,One Person Company,20,204,161026274,2015-07-28
+BIZ00485,Aarav Textiles 0485,Healthcare Services,Small,Gujarat,Vadodara,Private Limited,7,30,13483860,2019-06-15
+BIZ00486,Meera Solutions 0486,IT Services,Medium,Uttar Pradesh,Lucknow,One Person Company,20,212,374826349,2013-10-22
+BIZ00487,Kabir Enterprises 0487,Healthcare Services,Medium,Karnataka,Hubballi,LLP,10,120,337200598,2016-04-27
+BIZ00488,Kabir Traders 0488,Construction,Medium,Telangana,Warangal,Partnership,12,169,92213520,2018-09-21
+BIZ00489,Rohan Distributors 0489,Healthcare Services,Small,Uttar Pradesh,Kanpur,Proprietorship,3,21,40450678,2016-11-21
+BIZ00490,Tara Distributors 0490,Food Processing,Medium,Delhi,Dwarka,One Person Company,10,205,447588426,2019-10-20
+BIZ00491,Ishita Enterprises 0491,Construction,Small,West Bengal,Kolkata,LLP,6,23,32286327,2019-11-14
+BIZ00492,Sara Works 0492,Logistics,Small,Maharashtra,Nagpur,LLP,17,28,6100287,2020-08-03
+BIZ00493,Dev Solutions 0493,Healthcare Services,Small,Rajasthan,Udaipur,Partnership,9,32,27302228,2018-02-13
+BIZ00494,Tara Foods 0494,Agri Allied,Micro,Telangana,Warangal,Private Limited,2,7,4392951,2022-06-06
+BIZ00495,Anaya Textiles 0495,Healthcare Services,Micro,Delhi,New Delhi,Private Limited,11,9,728963,2019-03-26
+BIZ00496,Vivaan Textiles 0496,Logistics,Micro,West Bengal,Kolkata,Private Limited,19,3,4399739,2015-06-24
+BIZ00497,Meera Solutions 0497,Agri Allied,Small,Delhi,New Delhi,One Person Company,8,18,28908173,2018-10-01
+BIZ00498,Aarav Distributors 0498,IT Services,Micro,Karnataka,Hubballi,Partnership,20,4,1538358,2022-06-19
+BIZ00499,Vivaan Distributors 0499,Retail Trade,Medium,Rajasthan,Udaipur,Partnership,12,192,336002159,2019-02-12
+BIZ00500,Dev Enterprises 0500,Textiles,Micro,Telangana,Hyderabad,Private Limited,19,2,2642602,2018-05-12
+BIZ00501,Sara Distributors 0501,Construction,Small,Uttar Pradesh,Lucknow,One Person Company,8,18,44962641,2014-08-04
+BIZ00502,Tara Works 0502,IT Services,Micro,Uttar Pradesh,Noida,One Person Company,21,2,3103741,2021-05-11
+BIZ00503,Sara Traders 0503,IT Services,Medium,Maharashtra,Nashik,Proprietorship,5,230,464853877,2014-09-13
+BIZ00504,Kabir Solutions 0504,Logistics,Micro,Tamil Nadu,Madurai,Proprietorship,9,2,1452974,2021-11-08
+BIZ00505,Anaya Works 0505,Healthcare Services,Micro,West Bengal,Durgapur,Proprietorship,10,1,4954203,2021-11-16
+BIZ00506,Meera Engineering 0506,Textiles,Micro,Maharashtra,Mumbai,One Person Company,2,7,4222645,2017-02-02
+BIZ00507,Meera Distributors 0507,Agri Allied,Small,Madhya Pradesh,Jabalpur,LLP,1,35,44697878,2019-09-28
+BIZ00508,Tara Engineering 0508,Agri Allied,Micro,Uttar Pradesh,Kanpur,Partnership,16,4,3707373,2018-05-19
+BIZ00509,Ishita Textiles 0509,Construction,Micro,Delhi,New Delhi,Private Limited,5,5,1263713,2018-08-22
+BIZ00510,Anaya Textiles 0510,Wholesale Trade,Micro,Gujarat,Ahmedabad,LLP,20,7,1190891,2020-05-02
+BIZ00511,Diya Services 0511,IT Services,Small,Rajasthan,Jaipur,Private Limited,18,23,35872244,2016-06-14
+BIZ00512,Anaya Traders 0512,Construction,Micro,Gujarat,Rajkot,LLP,22,2,3942609,2019-09-27
+BIZ00513,Anaya Traders 0513,Manufacturing,Micro,Maharashtra,Mumbai,Partnership,12,7,4594084,2021-08-24
+BIZ00514,Arjun Enterprises 0514,Wholesale Trade,Small,Tamil Nadu,Madurai,LLP,8,23,18042535,2017-05-05
+BIZ00515,Meera Works 0515,Construction,Small,Madhya Pradesh,Bhopal,Partnership,12,34,33059586,2013-09-28
+BIZ00516,Vivaan Industries 0516,Healthcare Services,Small,Karnataka,Hubballi,One Person Company,4,32,35363766,2016-02-04
+BIZ00517,Vivaan Works 0517,Agri Allied,Micro,Tamil Nadu,Coimbatore,Proprietorship,19,5,2340658,2018-07-02
+BIZ00518,Tara Traders 0518,Textiles,Micro,Tamil Nadu,Chennai,One Person Company,3,8,2484331,2015-07-05
+BIZ00519,Anaya Foods 0519,Logistics,Micro,Gujarat,Surat,Private Limited,22,8,2956092,2022-05-15
+BIZ00520,Arjun Services 0520,Construction,Micro,Gujarat,Vadodara,One Person Company,20,1,2746374,2016-09-14
+BIZ00521,Sara Traders 0521,Healthcare Services,Medium,Uttar Pradesh,Noida,LLP,24,148,287895892,2016-06-27
+BIZ00522,Kabir Textiles 0522,Agri Allied,Small,Delhi,Dwarka,One Person Company,16,26,8233265,2017-09-19
+BIZ00523,Anaya Traders 0523,Wholesale Trade,Micro,West Bengal,Kolkata,Partnership,13,9,2720779,2017-04-24
+BIZ00524,Anaya Enterprises 0524,Wholesale Trade,Medium,Telangana,Hyderabad,One Person Company,12,167,252759408,2020-12-20
+BIZ00525,Kabir Solutions 0525,Agri Allied,Micro,Uttar Pradesh,Kanpur,Private Limited,4,1,502556,2016-06-13
+BIZ00526,Dev Engineering 0526,Construction,Small,Uttar Pradesh,Lucknow,Partnership,11,38,38005989,2022-06-01
+BIZ00527,Rohan Enterprises 0527,Construction,Small,Madhya Pradesh,Indore,Partnership,25,16,47348432,2013-05-01
+BIZ00528,Aarav Services 0528,Agri Allied,Small,Delhi,Dwarka,Proprietorship,5,25,19680726,2016-06-29
+BIZ00529,Vivaan Engineering 0529,Food Processing,Micro,Rajasthan,Jaipur,One Person Company,8,7,1538056,2020-04-19
+BIZ00530,Vivaan Distributors 0530,Construction,Micro,Rajasthan,Udaipur,Private Limited,23,5,3902419,2014-06-21
+BIZ00531,Aarav Foods 0531,Agri Allied,Medium,Karnataka,Bengaluru,LLP,21,94,179101586,2019-05-01
+BIZ00532,Arjun Textiles 0532,Food Processing,Micro,Maharashtra,Nashik,Partnership,7,7,3121001,2013-01-26
+BIZ00533,Arjun Engineering 0533,Construction,Medium,Rajasthan,Jodhpur,Proprietorship,3,155,337562244,2015-09-18
+BIZ00534,Arjun Services 0534,Textiles,Medium,West Bengal,Kolkata,One Person Company,22,125,141737282,2017-08-04
+BIZ00535,Meera Works 0535,IT Services,Small,Maharashtra,Nagpur,Proprietorship,6,22,24791406,2020-05-19
+BIZ00536,Diya Textiles 0536,Manufacturing,Medium,Tamil Nadu,Coimbatore,LLP,25,166,457748064,2014-12-20
+BIZ00537,Meera Foods 0537,Retail Trade,Micro,Gujarat,Rajkot,One Person Company,1,3,2962772,2021-12-11
+BIZ00538,Sara Enterprises 0538,Wholesale Trade,Micro,Delhi,Dwarka,Partnership,15,4,3365016,2018-10-05
+BIZ00539,Anaya Engineering 0539,Agri Allied,Small,Tamil Nadu,Chennai,LLP,21,23,19880464,2017-08-08
+BIZ00540,Anaya Textiles 0540,Wholesale Trade,Micro,West Bengal,Durgapur,LLP,4,9,4327343,2018-05-23
+BIZ00541,Dev Traders 0541,IT Services,Micro,West Bengal,Howrah,Partnership,3,7,2992915,2021-01-04
+BIZ00542,Dev Enterprises 0542,Textiles,Micro,Uttar Pradesh,Lucknow,Partnership,1,3,1296506,2016-05-09
+BIZ00543,Meera Works 0543,Logistics,Micro,Tamil Nadu,Chennai,Private Limited,18,1,747207,2013-10-03
+BIZ00544,Dev Works 0544,Textiles,Micro,Karnataka,Hubballi,Private Limited,15,1,4319564,2021-03-21
+BIZ00545,Vivaan Engineering 0545,Retail Trade,Small,Rajasthan,Jaipur,LLP,6,27,24928318,2019-01-04
+BIZ00546,Anaya Solutions 0546,Construction,Small,Delhi,Dwarka,Proprietorship,2,15,45187361,2022-08-15
+BIZ00547,Ishita Engineering 0547,Logistics,Micro,Gujarat,Rajkot,Private Limited,15,9,2972721,2016-02-07
+BIZ00548,Diya Textiles 0548,Food Processing,Micro,Tamil Nadu,Coimbatore,LLP,4,2,3469938,2015-09-07
+BIZ00549,Sara Enterprises 0549,IT Services,Small,Telangana,Warangal,One Person Company,24,48,27232862,2017-04-16
+BIZ00550,Aarav Traders 0550,Manufacturing,Micro,Rajasthan,Udaipur,Private Limited,8,7,2118498,2020-07-19
+BIZ00551,Diya Distributors 0551,Wholesale Trade,Micro,Maharashtra,Mumbai,Proprietorship,3,4,3701342,2019-03-29
+BIZ00552,Dev Textiles 0552,Wholesale Trade,Micro,Uttar Pradesh,Lucknow,Partnership,1,3,3398042,2016-10-18
+BIZ00553,Rohan Traders 0553,Logistics,Small,Telangana,Hyderabad,LLP,14,42,37026761,2022-04-14
+BIZ00554,Dev Textiles 0554,Healthcare Services,Micro,Karnataka,Bengaluru,Partnership,3,7,3215326,2020-05-05
+BIZ00555,Tara Traders 0555,Retail Trade,Micro,Uttar Pradesh,Noida,Proprietorship,22,3,2547024,2021-02-24
+BIZ00556,Kabir Solutions 0556,Retail Trade,Micro,Tamil Nadu,Coimbatore,Partnership,11,6,4209869,2013-09-24
+BIZ00557,Aarav Industries 0557,Construction,Micro,Madhya Pradesh,Jabalpur,LLP,16,9,580374,2019-10-12
+BIZ00558,Diya Traders 0558,Wholesale Trade,Medium,Gujarat,Rajkot,Partnership,24,224,55423338,2015-04-25
+BIZ00559,Ishita Services 0559,Retail Trade,Medium,Uttar Pradesh,Lucknow,LLP,5,231,486819572,2020-11-13
+BIZ00560,Kabir Enterprises 0560,Healthcare Services,Micro,Telangana,Hyderabad,Proprietorship,14,1,4324051,2016-10-05
+BIZ00561,Sara Enterprises 0561,Manufacturing,Small,Madhya Pradesh,Jabalpur,Private Limited,13,26,30732888,2017-11-07
+BIZ00562,Vivaan Solutions 0562,Wholesale Trade,Small,Delhi,New Delhi,Private Limited,4,38,8375778,2015-08-21
+BIZ00563,Kabir Traders 0563,Retail Trade,Small,Tamil Nadu,Chennai,One Person Company,14,28,27942366,2017-06-08
+BIZ00564,Anaya Enterprises 0564,Healthcare Services,Medium,Uttar Pradesh,Kanpur,Partnership,8,54,379906013,2019-02-22
+BIZ00565,Arjun Solutions 0565,Food Processing,Micro,Telangana,Hyderabad,One Person Company,10,2,2587650,2016-12-18
+BIZ00566,Dev Textiles 0566,Manufacturing,Small,West Bengal,Howrah,Partnership,24,47,14685968,2014-05-17
+BIZ00567,Meera Works 0567,IT Services,Micro,Madhya Pradesh,Jabalpur,LLP,5,8,1587648,2016-12-30
+BIZ00568,Vivaan Traders 0568,Construction,Medium,Maharashtra,Pune,Partnership,16,69,166052304,2015-12-30
+BIZ00569,Ishita Engineering 0569,Agri Allied,Medium,Rajasthan,Jodhpur,Proprietorship,14,80,89781030,2016-03-17
+BIZ00570,Vivaan Solutions 0570,Wholesale Trade,Micro,Delhi,Dwarka,Private Limited,17,4,820600,2018-02-09
+BIZ00571,Ishita Industries 0571,Construction,Small,Delhi,New Delhi,One Person Company,4,21,20077109,2022-06-25
+BIZ00572,Meera Industries 0572,Textiles,Micro,Gujarat,Ahmedabad,Proprietorship,22,1,4292293,2018-05-23
+BIZ00573,Dev Engineering 0573,Textiles,Medium,Uttar Pradesh,Noida,Private Limited,7,180,102154489,2019-04-19
+BIZ00574,Ishita Engineering 0574,Healthcare Services,Micro,Uttar Pradesh,Noida,One Person Company,23,3,1137375,2021-03-30
+BIZ00575,Ishita Textiles 0575,Textiles,Small,West Bengal,Kolkata,Proprietorship,4,11,17896719,2018-04-23
+BIZ00576,Arjun Services 0576,Wholesale Trade,Micro,Madhya Pradesh,Indore,Private Limited,4,5,2364591,2017-08-28
+BIZ00577,Rohan Works 0577,Retail Trade,Micro,West Bengal,Durgapur,Partnership,11,1,3264737,2019-10-03
+BIZ00578,Vivaan Traders 0578,Retail Trade,Small,Maharashtra,Pune,Private Limited,10,26,9890013,2022-08-06
+BIZ00579,Rohan Enterprises 0579,Manufacturing,Micro,West Bengal,Durgapur,Proprietorship,9,5,2273323,2015-04-19
+BIZ00580,Kabir Distributors 0580,Manufacturing,Micro,Maharashtra,Pune,LLP,21,2,2886985,2016-12-17
+BIZ00581,Kabir Services 0581,Textiles,Micro,Madhya Pradesh,Jabalpur,Partnership,16,5,2051740,2014-06-05
+BIZ00582,Anaya Works 0582,Manufacturing,Micro,Telangana,Hyderabad,LLP,11,8,4022692,2013-07-27
+BIZ00583,Tara Solutions 0583,Textiles,Micro,Madhya Pradesh,Indore,Proprietorship,25,6,3937298,2013-12-11
+BIZ00584,Anaya Industries 0584,IT Services,Small,Rajasthan,Udaipur,Private Limited,8,20,33455977,2013-09-12
+BIZ00585,Kabir Textiles 0585,Logistics,Medium,West Bengal,Kolkata,Proprietorship,19,58,250221992,2013-05-26
+BIZ00586,Meera Engineering 0586,Retail Trade,Micro,West Bengal,Durgapur,Proprietorship,14,1,2013286,2013-02-16
+BIZ00587,Aarav Distributors 0587,Food Processing,Micro,Maharashtra,Mumbai,LLP,2,5,4291945,2017-09-30
+BIZ00588,Aarav Engineering 0588,Wholesale Trade,Micro,Uttar Pradesh,Lucknow,Private Limited,9,3,4901205,2018-02-11
+BIZ00589,Vivaan Services 0589,Food Processing,Micro,Tamil Nadu,Coimbatore,LLP,6,1,4754374,2013-02-24
+BIZ00590,Arjun Industries 0590,Retail Trade,Micro,Gujarat,Vadodara,Partnership,7,5,908157,2018-08-12
+BIZ00591,Vivaan Traders 0591,Manufacturing,Medium,Tamil Nadu,Madurai,Private Limited,19,150,487010818,2013-04-06
+BIZ00592,Ishita Engineering 0592,Logistics,Micro,Telangana,Warangal,Private Limited,7,2,4367888,2018-05-16
+BIZ00593,Rohan Solutions 0593,Food Processing,Micro,Maharashtra,Nashik,LLP,11,8,2254502,2019-07-13
+BIZ00594,Anaya Solutions 0594,Construction,Medium,West Bengal,Kolkata,Private Limited,14,191,133917482,2019-10-20
+BIZ00595,Meera Enterprises 0595,IT Services,Micro,Tamil Nadu,Madurai,Proprietorship,11,4,1400825,2015-10-15
+BIZ00596,Arjun Services 0596,Food Processing,Micro,Uttar Pradesh,Lucknow,Proprietorship,18,4,3536657,2020-03-02
+BIZ00597,Tara Textiles 0597,Healthcare Services,Micro,Delhi,New Delhi,Proprietorship,11,4,3725382,2018-04-04
+BIZ00598,Vivaan Distributors 0598,Food Processing,Micro,Tamil Nadu,Madurai,Proprietorship,12,1,4336802,2017-03-03
+BIZ00599,Ishita Industries 0599,Textiles,Micro,Karnataka,Hubballi,Partnership,2,9,2041926,2015-07-11
+BIZ00600,Diya Traders 0600,Logistics,Micro,Madhya Pradesh,Bhopal,One Person Company,1,9,1057721,2020-05-30
+BIZ00601,Ishita Solutions 0601,Healthcare Services,Small,Gujarat,Surat,One Person Company,9,15,41312490,2013-12-01
+BIZ00602,Meera Textiles 0602,Wholesale Trade,Small,Maharashtra,Nagpur,LLP,24,26,36966163,2015-10-17
+BIZ00603,Anaya Distributors 0603,Logistics,Medium,Delhi,Dwarka,LLP,13,118,123285448,2021-08-23
+BIZ00604,Kabir Solutions 0604,Food Processing,Micro,Tamil Nadu,Chennai,Proprietorship,13,5,1300606,2016-10-08
+BIZ00605,Diya Distributors 0605,Wholesale Trade,Micro,Karnataka,Bengaluru,LLP,2,9,1690584,2020-03-19
+BIZ00606,Anaya Foods 0606,IT Services,Micro,Uttar Pradesh,Lucknow,Private Limited,1,4,1581120,2020-01-25
+BIZ00607,Ishita Traders 0607,Textiles,Micro,Telangana,Warangal,Partnership,9,3,1368237,2013-11-10
+BIZ00608,Anaya Enterprises 0608,Food Processing,Micro,Telangana,Hyderabad,Proprietorship,10,4,2025534,2019-07-17
+BIZ00609,Arjun Industries 0609,Healthcare Services,Micro,Tamil Nadu,Coimbatore,LLP,16,1,1409514,2019-11-24
+BIZ00610,Vivaan Distributors 0610,Manufacturing,Medium,Telangana,Hyderabad,One Person Company,19,58,467836778,2017-10-30
+BIZ00611,Diya Traders 0611,Retail Trade,Micro,Madhya Pradesh,Indore,Partnership,24,3,3982727,2022-01-25
+BIZ00612,Meera Enterprises 0612,Manufacturing,Small,Gujarat,Ahmedabad,Partnership,20,16,45297705,2018-07-05
+BIZ00613,Sara Solutions 0613,Retail Trade,Small,Uttar Pradesh,Kanpur,LLP,18,42,18880683,2022-01-25
+BIZ00614,Meera Distributors 0614,Retail Trade,Micro,Gujarat,Ahmedabad,Partnership,24,5,4974211,2015-03-31
+BIZ00615,Aarav Distributors 0615,Retail Trade,Micro,Gujarat,Vadodara,Proprietorship,7,6,653807,2016-03-24
+BIZ00616,Tara Works 0616,Healthcare Services,Small,Karnataka,Hubballi,Private Limited,20,30,32108461,2014-05-27
+BIZ00617,Kabir Services 0617,Healthcare Services,Micro,Maharashtra,Nagpur,Partnership,19,3,2363798,2014-06-14
+BIZ00618,Diya Enterprises 0618,Textiles,Micro,Karnataka,Mysuru,Proprietorship,2,9,1693460,2018-11-29
+BIZ00619,Meera Textiles 0619,Agri Allied,Micro,West Bengal,Durgapur,Private Limited,2,8,1716534,2014-05-12
+BIZ00620,Aarav Traders 0620,Construction,Micro,Uttar Pradesh,Noida,LLP,23,7,1975134,2017-11-05
+BIZ00621,Meera Engineering 0621,Healthcare Services,Micro,Uttar Pradesh,Lucknow,Partnership,12,3,2762056,2022-03-31
+BIZ00622,Tara Services 0622,Healthcare Services,Micro,Madhya Pradesh,Indore,Private Limited,4,5,3046055,2018-09-17
+BIZ00623,Sara Engineering 0623,Logistics,Small,Madhya Pradesh,Bhopal,LLP,25,20,48639721,2022-08-28
+BIZ00624,Aarav Services 0624,Wholesale Trade,Medium,Uttar Pradesh,Kanpur,One Person Company,20,83,427161449,2021-05-07
+BIZ00625,Aarav Distributors 0625,Textiles,Micro,Tamil Nadu,Chennai,One Person Company,14,2,4182023,2019-10-13
+BIZ00626,Ishita Foods 0626,Wholesale Trade,Micro,Delhi,New Delhi,Partnership,15,9,4683195,2021-08-11
+BIZ00627,Sara Works 0627,Food Processing,Small,Telangana,Hyderabad,LLP,10,38,7648184,2019-06-15
+BIZ00628,Sara Services 0628,Food Processing,Small,Karnataka,Bengaluru,LLP,15,30,8038729,2017-10-01
+BIZ00629,Sara Solutions 0629,Logistics,Micro,West Bengal,Kolkata,Partnership,2,6,1034048,2018-11-04
+BIZ00630,Arjun Textiles 0630,Construction,Small,West Bengal,Kolkata,Partnership,24,20,13368848,2019-08-03
+BIZ00631,Aarav Foods 0631,Retail Trade,Small,Rajasthan,Jaipur,One Person Company,9,38,24919520,2018-02-24
+BIZ00632,Diya Industries 0632,IT Services,Micro,Tamil Nadu,Chennai,LLP,4,7,4998944,2018-04-21
+BIZ00633,Anaya Enterprises 0633,Wholesale Trade,Small,West Bengal,Kolkata,LLP,7,29,46506093,2013-10-11
+BIZ00634,Sara Enterprises 0634,Wholesale Trade,Micro,Maharashtra,Mumbai,Proprietorship,3,6,4683344,2013-07-09
+BIZ00635,Anaya Works 0635,Retail Trade,Micro,Madhya Pradesh,Bhopal,One Person Company,9,4,2536026,2015-07-25
+BIZ00636,Anaya Enterprises 0636,Textiles,Micro,Gujarat,Vadodara,Partnership,11,8,4542689,2020-04-07
+BIZ00637,Dev Services 0637,Construction,Small,Uttar Pradesh,Noida,Partnership,16,12,6743809,2021-08-06
+BIZ00638,Anaya Foods 0638,Agri Allied,Micro,Madhya Pradesh,Jabalpur,One Person Company,17,5,3449567,2021-10-25
+BIZ00639,Tara Textiles 0639,Textiles,Medium,Karnataka,Mysuru,Partnership,23,199,444320254,2017-12-25
+BIZ00640,Tara Solutions 0640,Manufacturing,Micro,Karnataka,Hubballi,Private Limited,4,8,2157548,2017-07-05
+BIZ00641,Sara Services 0641,Wholesale Trade,Micro,West Bengal,Kolkata,One Person Company,21,1,2159952,2017-06-12
+BIZ00642,Ishita Distributors 0642,Agri Allied,Micro,Tamil Nadu,Madurai,Partnership,7,7,1386317,2020-03-08
+BIZ00643,Anaya Services 0643,Food Processing,Small,Delhi,New Delhi,Partnership,9,25,20542252,2015-12-30
+BIZ00644,Aarav Textiles 0644,Construction,Small,Gujarat,Vadodara,Partnership,14,21,22049058,2017-01-07
+BIZ00645,Anaya Textiles 0645,Retail Trade,Medium,Tamil Nadu,Madurai,Proprietorship,8,154,459408909,2013-11-12
+BIZ00646,Diya Works 0646,Healthcare Services,Micro,Maharashtra,Mumbai,Partnership,20,9,2430944,2015-12-10
+BIZ00647,Anaya Engineering 0647,Healthcare Services,Medium,Uttar Pradesh,Kanpur,Private Limited,21,141,91753454,2018-06-01
+BIZ00648,Dev Foods 0648,Agri Allied,Micro,Gujarat,Rajkot,Partnership,15,1,3881838,2017-10-17
+BIZ00649,Rohan Industries 0649,Manufacturing,Small,Rajasthan,Jaipur,LLP,21,44,33302660,2013-09-21
+BIZ00650,Anaya Enterprises 0650,Retail Trade,Small,Telangana,Hyderabad,Private Limited,16,30,42910475,2014-04-13
+BIZ00651,Arjun Traders 0651,Retail Trade,Micro,Karnataka,Hubballi,LLP,3,6,1473211,2021-03-20
+BIZ00652,Tara Industries 0652,Construction,Small,West Bengal,Durgapur,Private Limited,22,10,23910011,2020-11-25
+BIZ00653,Kabir Industries 0653,Healthcare Services,Micro,Karnataka,Hubballi,Proprietorship,18,7,1419617,2016-01-03
+BIZ00654,Vivaan Engineering 0654,Food Processing,Small,Delhi,New Delhi,One Person Company,3,13,39389465,2020-10-14
+BIZ00655,Meera Traders 0655,Textiles,Micro,Telangana,Warangal,Proprietorship,5,9,3686830,2017-01-10
+BIZ00656,Diya Enterprises 0656,IT Services,Micro,Uttar Pradesh,Noida,Proprietorship,16,7,1846063,2022-05-06
+BIZ00657,Ishita Textiles 0657,Healthcare Services,Small,Delhi,New Delhi,One Person Company,16,11,5218580,2013-06-10
+BIZ00658,Aarav Foods 0658,Retail Trade,Medium,Rajasthan,Jaipur,Partnership,19,92,390426371,2018-02-22
+BIZ00659,Ishita Textiles 0659,Construction,Micro,Telangana,Hyderabad,Private Limited,22,4,1960896,2015-01-31
+BIZ00660,Ishita Engineering 0660,Textiles,Micro,Rajasthan,Udaipur,Private Limited,14,6,3191755,2013-12-31
+BIZ00661,Anaya Enterprises 0661,Healthcare Services,Medium,Karnataka,Mysuru,Private Limited,21,65,223107562,2022-09-13
+BIZ00662,Diya Textiles 0662,Construction,Micro,Maharashtra,Nashik,Partnership,5,3,1793628,2021-01-12
+BIZ00663,Tara Traders 0663,Wholesale Trade,Small,Telangana,Hyderabad,Proprietorship,21,29,46366051,2014-07-16
+BIZ00664,Meera Engineering 0664,Agri Allied,Micro,Delhi,Dwarka,Proprietorship,1,7,2314731,2021-12-13
+BIZ00665,Arjun Distributors 0665,Healthcare Services,Micro,Uttar Pradesh,Noida,One Person Company,10,9,1440318,2021-07-16
+BIZ00666,Ishita Works 0666,Textiles,Small,Tamil Nadu,Coimbatore,Proprietorship,5,43,27409923,2017-02-01
+BIZ00667,Sara Solutions 0667,IT Services,Micro,Madhya Pradesh,Jabalpur,Partnership,8,8,1123612,2015-07-30
+BIZ00668,Kabir Foods 0668,Wholesale Trade,Small,Gujarat,Rajkot,Partnership,11,43,44070639,2019-02-20
+BIZ00669,Ishita Works 0669,Healthcare Services,Small,Karnataka,Bengaluru,Partnership,17,12,12664358,2015-12-13
+BIZ00670,Anaya Traders 0670,Textiles,Small,Karnataka,Hubballi,Proprietorship,2,10,17962698,2015-09-11
+BIZ00671,Arjun Services 0671,Healthcare Services,Micro,Uttar Pradesh,Noida,LLP,25,8,4259885,2021-12-30
+BIZ00672,Tara Solutions 0672,Manufacturing,Micro,Madhya Pradesh,Bhopal,One Person Company,3,5,753299,2014-06-07
+BIZ00673,Vivaan Enterprises 0673,Retail Trade,Micro,Madhya Pradesh,Bhopal,Partnership,12,5,2418098,2019-12-17
+BIZ00674,Ishita Traders 0674,Agri Allied,Micro,West Bengal,Durgapur,One Person Company,20,9,2752973,2013-02-11
+BIZ00675,Anaya Works 0675,IT Services,Micro,Gujarat,Vadodara,LLP,15,8,732873,2019-11-27
+BIZ00676,Sara Solutions 0676,Construction,Small,Uttar Pradesh,Noida,Private Limited,12,46,34934628,2016-01-26
+BIZ00677,Vivaan Enterprises 0677,Textiles,Micro,Maharashtra,Pune,One Person Company,21,4,2149614,2019-05-01
+BIZ00678,Aarav Works 0678,Healthcare Services,Micro,West Bengal,Durgapur,LLP,14,7,1971042,2019-10-05
+BIZ00679,Rohan Services 0679,Construction,Micro,Tamil Nadu,Chennai,Proprietorship,22,4,1174736,2014-11-22
+BIZ00680,Rohan Distributors 0680,Textiles,Small,Delhi,Dwarka,Proprietorship,22,28,11020389,2015-12-26
+BIZ00681,Tara Distributors 0681,Textiles,Small,Tamil Nadu,Chennai,LLP,3,19,11777026,2017-03-08
+BIZ00682,Dev Traders 0682,Agri Allied,Micro,Telangana,Warangal,Partnership,1,2,3930131,2013-02-18
+BIZ00683,Tara Distributors 0683,Healthcare Services,Micro,Rajasthan,Jaipur,One Person Company,9,7,823379,2014-06-22
+BIZ00684,Kabir Traders 0684,IT Services,Small,Delhi,New Delhi,LLP,15,32,21164197,2022-08-16
+BIZ00685,Arjun Solutions 0685,Wholesale Trade,Small,Madhya Pradesh,Bhopal,Proprietorship,5,49,16592784,2018-11-16
+BIZ00686,Aarav Foods 0686,Food Processing,Micro,Karnataka,Bengaluru,Proprietorship,5,6,2998650,2016-12-06
+BIZ00687,Tara Foods 0687,Logistics,Small,Rajasthan,Jaipur,LLP,18,40,45164367,2018-12-10
+BIZ00688,Vivaan Traders 0688,IT Services,Micro,Delhi,Dwarka,Proprietorship,21,7,3001448,2019-11-03
+BIZ00689,Sara Distributors 0689,Construction,Micro,Tamil Nadu,Coimbatore,Partnership,14,9,3568531,2013-11-24
+BIZ00690,Anaya Services 0690,IT Services,Micro,Rajasthan,Jodhpur,Partnership,25,9,2918469,2017-12-29
+BIZ00691,Aarav Works 0691,Textiles,Micro,Telangana,Hyderabad,Proprietorship,10,3,2874363,2021-05-25
+BIZ00692,Meera Foods 0692,Food Processing,Medium,Karnataka,Hubballi,Partnership,2,69,105729656,2020-10-21
+BIZ00693,Aarav Industries 0693,IT Services,Small,Telangana,Warangal,Private Limited,21,13,45512514,2013-09-13
+BIZ00694,Sara Industries 0694,Wholesale Trade,Micro,Karnataka,Hubballi,Partnership,19,8,3613311,2016-08-03
+BIZ00695,Vivaan Works 0695,Textiles,Small,Telangana,Warangal,LLP,2,43,37325775,2014-03-08
+BIZ00696,Diya Textiles 0696,Food Processing,Micro,Rajasthan,Udaipur,One Person Company,15,2,3637731,2013-06-05
+BIZ00697,Ishita Industries 0697,Agri Allied,Small,West Bengal,Howrah,One Person Company,5,36,24670761,2016-03-15
+BIZ00698,Dev Traders 0698,Textiles,Medium,Delhi,Dwarka,Private Limited,19,51,122175195,2020-10-05
+BIZ00699,Dev Services 0699,Textiles,Micro,Gujarat,Vadodara,LLP,9,5,3072064,2022-03-01
+BIZ00700,Kabir Engineering 0700,Food Processing,Micro,Telangana,Warangal,Partnership,2,7,3123402,2017-01-15
+BIZ00701,Dev Services 0701,Healthcare Services,Small,Maharashtra,Kolhapur,Partnership,16,38,33869624,2019-12-15
+BIZ00702,Rohan Works 0702,Textiles,Small,Maharashtra,Nagpur,Private Limited,20,11,29187844,2016-11-02
+BIZ00703,Sara Solutions 0703,Manufacturing,Micro,Uttar Pradesh,Noida,Partnership,3,3,2873299,2013-03-28
+BIZ00704,Dev Distributors 0704,IT Services,Small,Delhi,New Delhi,LLP,22,25,9068363,2016-12-21
+BIZ00705,Dev Engineering 0705,Wholesale Trade,Micro,Madhya Pradesh,Bhopal,Partnership,1,7,4223483,2019-01-14
+BIZ00706,Kabir Textiles 0706,Construction,Small,Telangana,Hyderabad,One Person Company,15,39,20236614,2018-05-23
+BIZ00707,Dev Traders 0707,Logistics,Small,Karnataka,Hubballi,Partnership,1,38,28388914,2020-02-26
+BIZ00708,Vivaan Services 0708,Textiles,Micro,Delhi,New Delhi,LLP,10,4,1143533,2020-11-07
+BIZ00709,Ishita Distributors 0709,Construction,Micro,Telangana,Warangal,Proprietorship,23,9,2773190,2013-02-23
+BIZ00710,Ishita Distributors 0710,Agri Allied,Micro,West Bengal,Durgapur,Partnership,6,1,2022374,2014-10-20
+BIZ00711,Arjun Textiles 0711,Healthcare Services,Micro,Madhya Pradesh,Indore,Private Limited,21,7,4112172,2017-02-26
+BIZ00712,Meera Services 0712,Wholesale Trade,Small,Maharashtra,Pune,Private Limited,3,17,48159322,2018-10-27
+BIZ00713,Anaya Enterprises 0713,Wholesale Trade,Micro,West Bengal,Howrah,Proprietorship,25,9,4476498,2016-06-03
+BIZ00714,Anaya Industries 0714,Wholesale Trade,Small,Rajasthan,Udaipur,Proprietorship,14,39,14528349,2014-10-06
+BIZ00715,Kabir Solutions 0715,Food Processing,Micro,Rajasthan,Udaipur,Partnership,5,1,3573567,2015-03-22
+BIZ00716,Sara Works 0716,Wholesale Trade,Small,Rajasthan,Jaipur,Private Limited,24,43,17473916,2022-03-18
+BIZ00717,Vivaan Industries 0717,Construction,Medium,Uttar Pradesh,Kanpur,Proprietorship,17,237,289586893,2015-02-21
+BIZ00718,Aarav Services 0718,Logistics,Micro,Madhya Pradesh,Indore,One Person Company,17,8,2388944,2021-07-26
+BIZ00719,Dev Foods 0719,Manufacturing,Micro,Tamil Nadu,Chennai,Partnership,18,3,4264883,2019-03-25
+BIZ00720,Ishita Works 0720,Wholesale Trade,Micro,Delhi,Dwarka,One Person Company,4,9,2968763,2020-08-21
+BIZ00721,Ishita Industries 0721,Wholesale Trade,Micro,West Bengal,Howrah,LLP,10,6,2156419,2015-03-26
+BIZ00722,Sara Engineering 0722,IT Services,Medium,Telangana,Warangal,LLP,16,242,117946909,2013-11-07
+BIZ00723,Anaya Distributors 0723,Wholesale Trade,Medium,Uttar Pradesh,Noida,LLP,24,215,334078662,2017-07-01
+BIZ00724,Aarav Foods 0724,Healthcare Services,Small,Tamil Nadu,Chennai,Partnership,16,31,36072299,2022-07-27
+BIZ00725,Sara Engineering 0725,Manufacturing,Medium,Karnataka,Bengaluru,Partnership,23,167,401659627,2021-05-03
+BIZ00726,Vivaan Textiles 0726,Manufacturing,Micro,Gujarat,Vadodara,One Person Company,10,3,2793805,2017-10-19
+BIZ00727,Aarav Traders 0727,Agri Allied,Micro,West Bengal,Kolkata,Proprietorship,13,4,1624217,2021-05-22
+BIZ00728,Diya Works 0728,Healthcare Services,Micro,Maharashtra,Mumbai,Proprietorship,14,4,4864693,2021-01-18
+BIZ00729,Tara Enterprises 0729,Construction,Micro,Madhya Pradesh,Bhopal,Partnership,24,3,2944891,2020-05-16
+BIZ00730,Dev Traders 0730,Healthcare Services,Small,Maharashtra,Nashik,One Person Company,13,23,47750079,2019-12-16
+BIZ00731,Ishita Engineering 0731,Healthcare Services,Small,Telangana,Hyderabad,One Person Company,25,11,16807481,2020-03-31
+BIZ00732,Ishita Distributors 0732,Retail Trade,Micro,Gujarat,Vadodara,Partnership,12,6,3279512,2016-02-19
+BIZ00733,Arjun Foods 0733,Textiles,Small,West Bengal,Kolkata,LLP,7,30,32177509,2019-08-03
+BIZ00734,Aarav Engineering 0734,Wholesale Trade,Micro,Uttar Pradesh,Kanpur,Private Limited,10,5,949783,2016-05-12
+BIZ00735,Anaya Foods 0735,Construction,Medium,Tamil Nadu,Madurai,Proprietorship,10,53,300912573,2016-07-03
+BIZ00736,Sara Distributors 0736,Retail Trade,Small,Maharashtra,Mumbai,Partnership,19,16,29534220,2016-09-14
+BIZ00737,Rohan Foods 0737,Retail Trade,Small,Gujarat,Ahmedabad,Private Limited,21,44,10503029,2021-05-22
+BIZ00738,Aarav Traders 0738,Construction,Micro,Telangana,Warangal,Partnership,24,4,4262898,2021-12-25
+BIZ00739,Dev Services 0739,Logistics,Micro,Maharashtra,Nashik,Private Limited,9,1,2503655,2014-04-20
+BIZ00740,Aarav Enterprises 0740,Manufacturing,Micro,Gujarat,Ahmedabad,Partnership,9,1,2529905,2018-10-26
+BIZ00741,Sara Textiles 0741,Construction,Small,Delhi,Dwarka,Proprietorship,16,45,34365526,2014-05-05
+BIZ00742,Ishita Works 0742,Wholesale Trade,Micro,Delhi,Dwarka,Private Limited,4,5,4609932,2021-11-12
+BIZ00743,Tara Distributors 0743,Healthcare Services,Micro,Rajasthan,Udaipur,Private Limited,24,9,4777991,2018-06-28
+BIZ00744,Tara Industries 0744,Wholesale Trade,Small,Karnataka,Bengaluru,Partnership,11,38,25553551,2015-05-29
+BIZ00745,Diya Solutions 0745,Agri Allied,Micro,Gujarat,Rajkot,Private Limited,3,2,3263894,2014-12-01
+BIZ00746,Anaya Solutions 0746,Healthcare Services,Small,Karnataka,Hubballi,Proprietorship,6,22,20805031,2014-02-10
+BIZ00747,Ishita Works 0747,Construction,Small,Karnataka,Mysuru,Private Limited,14,29,39780278,2021-11-21
+BIZ00748,Dev Services 0748,Textiles,Micro,Maharashtra,Mumbai,Proprietorship,7,4,1388669,2014-05-12
+BIZ00749,Tara Solutions 0749,Agri Allied,Small,Madhya Pradesh,Jabalpur,Partnership,23,46,44486464,2013-11-21
+BIZ00750,Dev Foods 0750,Healthcare Services,Micro,Delhi,New Delhi,Private Limited,24,9,4693209,2017-03-06
+BIZ00751,Arjun Solutions 0751,Wholesale Trade,Micro,Delhi,Dwarka,Proprietorship,18,6,2041710,2022-02-23
+BIZ00752,Diya Distributors 0752,IT Services,Micro,Maharashtra,Pune,Partnership,8,6,870925,2017-11-26
+BIZ00753,Meera Services 0753,Logistics,Small,Gujarat,Rajkot,LLP,14,35,28443903,2020-12-06
+BIZ00754,Arjun Works 0754,Food Processing,Micro,Maharashtra,Kolhapur,Private Limited,11,3,1441748,2014-09-24
+BIZ00755,Diya Solutions 0755,Construction,Micro,Tamil Nadu,Chennai,Private Limited,18,7,3919932,2013-02-01
+BIZ00756,Anaya Traders 0756,Construction,Small,Gujarat,Rajkot,Private Limited,15,43,18097265,2014-02-28
+BIZ00757,Vivaan Industries 0757,Healthcare Services,Small,Maharashtra,Mumbai,One Person Company,24,41,34906086,2021-01-28
+BIZ00758,Sara Solutions 0758,Retail Trade,Medium,Madhya Pradesh,Indore,LLP,22,96,239073284,2014-10-26
+BIZ00759,Dev Distributors 0759,Food Processing,Small,Madhya Pradesh,Jabalpur,LLP,2,28,46712704,2020-09-13
+BIZ00760,Diya Services 0760,Food Processing,Small,Delhi,New Delhi,One Person Company,10,40,9767406,2020-07-14
+BIZ00761,Tara Services 0761,Construction,Small,West Bengal,Durgapur,Private Limited,18,25,22733784,2017-03-26
+BIZ00762,Aarav Services 0762,Food Processing,Micro,Gujarat,Ahmedabad,LLP,7,4,4126176,2014-01-11
+BIZ00763,Aarav Enterprises 0763,Retail Trade,Micro,Telangana,Warangal,Private Limited,19,6,2602730,2019-10-18
+BIZ00764,Ishita Textiles 0764,Healthcare Services,Micro,Karnataka,Hubballi,One Person Company,16,5,2293901,2018-02-21
+BIZ00765,Vivaan Foods 0765,Retail Trade,Small,Tamil Nadu,Chennai,Private Limited,6,30,26246500,2015-02-09
+BIZ00766,Ishita Works 0766,Logistics,Small,Tamil Nadu,Madurai,Proprietorship,21,36,20362032,2014-12-12
+BIZ00767,Diya Solutions 0767,Construction,Small,West Bengal,Kolkata,One Person Company,7,16,31220710,2016-04-06
+BIZ00768,Arjun Industries 0768,Manufacturing,Small,Karnataka,Mysuru,One Person Company,8,39,15745339,2016-03-15
+BIZ00769,Arjun Enterprises 0769,Construction,Micro,Uttar Pradesh,Noida,One Person Company,13,5,4768909,2018-12-14
+BIZ00770,Ishita Works 0770,Wholesale Trade,Small,Karnataka,Hubballi,One Person Company,10,29,49412506,2014-03-24
+BIZ00771,Vivaan Works 0771,IT Services,Micro,West Bengal,Howrah,One Person Company,21,8,644672,2013-07-22
+BIZ00772,Anaya Textiles 0772,Healthcare Services,Small,Tamil Nadu,Coimbatore,Private Limited,10,36,35993849,2017-07-20
+BIZ00773,Sara Engineering 0773,Healthcare Services,Micro,Karnataka,Bengaluru,LLP,19,8,3693012,2022-07-08
+BIZ00774,Dev Foods 0774,IT Services,Small,Madhya Pradesh,Bhopal,Partnership,12,24,15347660,2021-01-27
+BIZ00775,Dev Services 0775,Textiles,Small,Tamil Nadu,Madurai,Partnership,21,48,16126545,2019-10-22
+BIZ00776,Tara Services 0776,IT Services,Micro,Karnataka,Hubballi,Proprietorship,7,9,4372535,2020-07-12
+BIZ00777,Sara Works 0777,Agri Allied,Micro,Delhi,Dwarka,One Person Company,14,9,554634,2018-08-15
+BIZ00778,Arjun Traders 0778,Manufacturing,Micro,Telangana,Warangal,Proprietorship,14,3,4133513,2019-04-11
+BIZ00779,Dev Industries 0779,Manufacturing,Micro,Uttar Pradesh,Lucknow,Partnership,11,2,3833668,2014-07-15
+BIZ00780,Dev Textiles 0780,Textiles,Micro,Telangana,Hyderabad,Partnership,20,5,2270556,2014-01-19
+BIZ00781,Arjun Industries 0781,Food Processing,Micro,Maharashtra,Nashik,LLP,18,3,2997690,2022-05-26
+BIZ00782,Dev Engineering 0782,Agri Allied,Micro,Rajasthan,Jaipur,Partnership,9,8,2570168,2020-12-18
+BIZ00783,Arjun Textiles 0783,Food Processing,Micro,Madhya Pradesh,Bhopal,Proprietorship,7,7,3088827,2013-02-09
+BIZ00784,Dev Services 0784,Healthcare Services,Small,Uttar Pradesh,Kanpur,One Person Company,3,18,12874002,2015-04-18
+BIZ00785,Meera Solutions 0785,Textiles,Micro,Maharashtra,Mumbai,Private Limited,12,8,1428228,2015-03-15
+BIZ00786,Sara Engineering 0786,Logistics,Micro,Tamil Nadu,Madurai,One Person Company,5,9,648212,2020-07-16
+BIZ00787,Rohan Distributors 0787,Food Processing,Small,Tamil Nadu,Madurai,Partnership,14,43,8635341,2017-03-20
+BIZ00788,Tara Engineering 0788,Wholesale Trade,Small,Gujarat,Surat,Proprietorship,23,30,44135793,2015-12-10
+BIZ00789,Rohan Engineering 0789,Healthcare Services,Small,Uttar Pradesh,Lucknow,LLP,15,31,34375425,2015-06-06
+BIZ00790,Rohan Industries 0790,Agri Allied,Micro,Karnataka,Bengaluru,LLP,23,1,1920940,2022-01-09
+BIZ00791,Aarav Enterprises 0791,Wholesale Trade,Medium,Rajasthan,Jodhpur,LLP,13,139,353905011,2022-03-11
+BIZ00792,Dev Textiles 0792,Agri Allied,Medium,West Bengal,Kolkata,Private Limited,22,109,122802106,2014-12-16
+BIZ00793,Ishita Services 0793,Logistics,Small,West Bengal,Durgapur,One Person Company,4,11,38934075,2016-11-15
+BIZ00794,Ishita Engineering 0794,IT Services,Small,Tamil Nadu,Chennai,Partnership,9,14,28132168,2020-03-15
+BIZ00795,Vivaan Traders 0795,IT Services,Micro,Uttar Pradesh,Noida,LLP,12,2,964952,2021-10-30
+BIZ00796,Anaya Services 0796,Logistics,Micro,Tamil Nadu,Chennai,LLP,16,7,1474850,2016-01-02
+BIZ00797,Diya Engineering 0797,IT Services,Small,Tamil Nadu,Madurai,Proprietorship,18,31,47073101,2018-04-26
+BIZ00798,Meera Solutions 0798,Construction,Small,Gujarat,Vadodara,One Person Company,10,28,8381273,2015-07-16
+BIZ00799,Vivaan Traders 0799,Logistics,Medium,Tamil Nadu,Chennai,Private Limited,21,219,310849123,2017-08-07
+BIZ00800,Arjun Services 0800,Manufacturing,Micro,Telangana,Warangal,One Person Company,16,7,3557683,2015-03-30

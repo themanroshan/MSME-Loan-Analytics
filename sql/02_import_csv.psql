@@ -1,0 +1,12 @@
+-- Run from the project root using psql:
+-- psql -U postgres -d msme_analytics -f sql/02_import_csv.psql
+-- This script uses psql's client-side \copy command.
+SET search_path TO msme;
+
+\copy businesses FROM 'data/businesses.csv' WITH (FORMAT csv, HEADER true);
+\copy products FROM 'data/products.csv' WITH (FORMAT csv, HEADER true);
+\copy applications FROM 'data/applications.csv' WITH (FORMAT csv, HEADER true, NULL '');
+\copy application_events FROM 'data/application_events.csv' WITH (FORMAT csv, HEADER true);
+\copy loans FROM 'data/loans.csv' WITH (FORMAT csv, HEADER true);
+\copy loan_installments FROM 'data/loan_installments.csv' WITH (FORMAT csv, HEADER true);
+\copy repayments FROM 'data/repayments.csv' WITH (FORMAT csv, HEADER true);

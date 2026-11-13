@@ -1,0 +1,72 @@
+Dataset counts:
+{
+  "businesses.csv": 800,
+  "products.csv": 4,
+  "applications.csv": 1500,
+  "application_events.csv": 5802,
+  "loans.csv": 754,
+  "loan_installments.csv": 11538,
+  "repayments.csv": 8487,
+  "loan_snapshot.csv": 754
+}
+
+Snapshot metrics:
+{
+  "snapshot_date": "2025-12-31",
+  "businesses": 800,
+  "applications": 1500,
+  "approved_applications": 898,
+  "rejected_applications": 323,
+  "pending_applications": 198,
+  "withdrawn_applications": 81,
+  "loans_disbursed": 754,
+  "total_disbursed_inr": 4787132000.0,
+  "outstanding_principal_inr": 1195899586.05,
+  "approval_rate": 0.7355,
+  "application_decision_tat_avg_days": 14.13,
+  "par30": 0.1628,
+  "par90": 0.1242,
+  "collection_efficiency": 0.9741,
+  "installments": 11538,
+  "repayments": 8487
+}
+
+Excel structure:
+{
+  "sheets": [
+    "Dashboard",
+    "Businesses",
+    "Products",
+    "Applications",
+    "ApplicationEvents",
+    "Installments",
+    "KPI Definitions",
+    "Loans",
+    "Repayments",
+    "LoanSnapshot"
+  ],
+  "dashboard_B5_formula": "=COUNTA(Applications!A:A)-1",
+  "loan_snapshot_rows": 754,
+  "repayment_rows": 8487
+}
+
+Missing required files:
+[]
+
+Pytest stdout:
+[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m.[0m[32m                                                                   [100%][0m
+[32m[32m[1m6 passed[0m[32m in 0.33s[0m[0m
+
+Pytest stderr:
+Spreadsheet runtime warmup failed during python startup
+Traceback (most recent call last):
+  File "/tmp/tmp.QlpUkOUI9D/artifact_tool_v2-2.8.66/artifact_tool/patches/warm_spreadsheet_runtime_on_startup.py", line 26, in warm_spreadsheet_runtime_on_startup
+  File "/tmp/tmp.QlpUkOUI9D/artifact_tool_v2-2.8.66/artifact_tool/spreadsheet_warmup.py", line 785, in warm_spreadsheet_runtime
+  File "/tmp/tmp.QlpUkOUI9D/artifact_tool_v2-2.8.66/artifact_tool/spreadsheet_warmup.py", line 718, in _warm_feature_flows
+  File "/tmp/tmp.QlpUkOUI9D/artifact_tool_v2-2.8.66/artifact_tool/spreadsheet_warmup.py", line 509, in _warm_drawing_and_image_flows
+  File "/tmp/tmp.QlpUkOUI9D/artifact_tool_v2-2.8.66/artifact_tool/generated/interface/models.py", line 32861, in bring_to_front
+  File "/tmp/tmp.QlpUkOUI9D/artifact_tool_v2-2.8.66/artifact_tool/rpc/remote.py", line 764, in __call__
+  File "/tmp/tmp.QlpUkOUI9D/artifact_tool_v2-2.8.66/artifact_tool/rpc/client.py", line 175, in call
+artifact_tool.rpc.client.RemoteError: Element ordering requires an owning element collection.
+
+Pytest return code: 0

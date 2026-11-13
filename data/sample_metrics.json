@@ -1,0 +1,19 @@
+{
+  "snapshot_date": "2025-12-31",
+  "businesses": 800,
+  "applications": 1500,
+  "approved_applications": 898,
+  "rejected_applications": 323,
+  "pending_applications": 198,
+  "withdrawn_applications": 81,
+  "loans_disbursed": 754,
+  "total_disbursed_inr": 4787132000.0,
+  "outstanding_principal_inr": 1195899586.05,
+  "approval_rate": 0.7355,
+  "application_decision_tat_avg_days": 14.13,
+  "par30": 0.1628,
+  "par90": 0.1242,
+  "collection_efficiency": 0.9741,
+  "installments": 11538,
+  "repayments": 8487
+}

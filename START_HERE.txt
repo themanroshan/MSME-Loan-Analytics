@@ -1,0 +1,48 @@
+MSME LENDING ANALYTICS — START HERE
+===================================
+
+1) Extract this ZIP. Open the folder named MSME_Lending_Analytics_Project_Ready.
+
+2) IMPORTANT FOLDERS
+   data/   -> all 8 CSV datasets used by the project
+   mysql/  -> MySQL 8 scripts (use these, NOT the sql/ folder)
+   powerbi/-> DAX measures and Power BI model/build guide
+   excel/  -> completed Excel analysis workbook
+   app.py  -> Streamlit dashboard
+
+3) YOUR MYSQL DATABASE
+   If you already created msme_analytics, imported all 8 CSVs, and verified
+   the expected row counts, DO NOT rerun 01_schema_mysql.sql or re-import data.
+   Run these files in MySQL Workbench, in this order:
+      mysql/02_create_views_mysql.sql
+      mysql/03_analysis_queries_mysql.sql
+      mysql/04_data_quality_checks_mysql.sql
+      mysql/05_verification_mysql.sql
+   Execute 03_analysis_queries_mysql.sql query-by-query if you prefer.
+
+   If you have NOT created/imported the database yet, read:
+      mysql/README_MySQL_Import_Guide.md
+   Then run 01_schema_mysql.sql and import the CSVs in the order documented there.
+
+4) POWER BI (NEXT PORTFOLIO TASK)
+   In Power BI Desktop, import the CSVs listed in:
+      powerbi/Model_Relationships_and_Build_Guide.md
+   Create the relationships from that guide, then add measures from:
+      powerbi/DAX_Measures.dax
+   Build these two pages first:
+      - Executive Summary
+      - Portfolio Quality / Risk
+   Save as powerbi/MSME_Lending_Analytics.pbix
+
+5) STREAMLIT DASHBOARD
+   Open PowerShell in this folder and run:
+      python -m venv .venv
+      .venv\Scripts\Activate.ps1
+      pip install -r requirements.txt
+      streamlit run app.py
+   If the dashboard is already running successfully on your PC, do not repeat this.
+
+6) DATA NOTE
+   This is a synthetic educational Indian MSME lending case study. Do not present
+   the data or generated KPIs as actual lender/NBFC performance or regulatory NPA data.
+   Snapshot date: 31-Dec-2025.

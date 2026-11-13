@@ -1,0 +1,103 @@
+-- Import CSV tables with these names: Businesses, Products, Applications, Loans,
+-- Loan_Installments, Repayments, Loan_Snapshot.
+-- Create relationships exactly as documented in Model_Relationships.md.
+
+Total Applications =
+DISTINCTCOUNT(Applications[application_id])
+
+Approved Applications =
+CALCULATE(
+    [Total Applications],
+    Applications[application_status] = "Approved"
+)
+
+Rejected Applications =
+CALCULATE(
+    [Total Applications],
+    Applications[application_status] = "Rejected"
+)
+
+Decided Applications =
+[Approved Applications] + [Rejected Applications]
+
+Approval Rate =
+DIVIDE([Approved Applications], [Decided Applications])
+
+Pending Applications =
+CALCULATE([Total Applications], Applications[application_status] = "Pending")
+
+Withdrawn Applications =
+CALCULATE([Total Applications], Applications[application_status] = "Withdrawn")
+
+Average Decision TAT (Days) =
+AVERAGEX(
+    FILTER(
+        Applications,
+        Applications[application_status] IN {"Approved","Rejected"}
+            && NOT ISBLANK(Applications[decision_tat_days])
+    ),
+    Applications[decision_tat_days]
+)
+
+Disbursed Loans =
+DISTINCTCOUNT(Loans[loan_id])
+
+Total Disbursed (INR) =
+SUM(Loans[sanctioned_amount_inr])
+
+Average Ticket Size (INR) =
+DIVIDE([Total Disbursed (INR)], [Disbursed Loans])
+
+Outstanding Principal (INR) =
+SUM(Loan_Snapshot[outstanding_principal_inr])
+
+PAR 30+ Amount (INR) =
+CALCULATE(
+    [Outstanding Principal (INR)],
+    Loan_Snapshot[dpd_days] >= 30
+)
+
+PAR 30+ % =
+DIVIDE([PAR 30+ Amount (INR)], [Outstanding Principal (INR)])
+
+PAR 90+ Amount (INR) =
+CALCULATE(
+    [Outstanding Principal (INR)],
+    Loan_Snapshot[dpd_days] >= 90
+)
+
+PAR 90+ % =
+DIVIDE([PAR 90+ Amount (INR)], [Outstanding Principal (INR)])
+
+30+ DPD Loans =
+CALCULATE(
+    DISTINCTCOUNT(Loan_Snapshot[loan_id]),
+    Loan_Snapshot[dpd_days] >= 30
+)
+
+90+ DPD Loans =
+CALCULATE(
+    DISTINCTCOUNT(Loan_Snapshot[loan_id]),
+    Loan_Snapshot[dpd_days] >= 90
+)
+
+Scheduled Dues (INR) =
+CALCULATE(
+    SUM(Loan_Installments[total_due_inr]),
+    Loan_Installments[due_date] <= DATE(2025,12,31)
+)
+
+Collections Received (INR) =
+CALCULATE(
+    SUM(Repayments[payment_amount_inr]),
+    Repayments[payment_date] <= DATE(2025,12,31)
+)
+
+Collection Efficiency % =
+DIVIDE([Collections Received (INR)], [Scheduled Dues (INR)])
+
+Application-to-Disbursement Conversion % =
+DIVIDE(
+    DISTINCTCOUNT(Loans[application_id]),
+    CALCULATE([Approved Applications])
+)
